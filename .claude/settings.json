@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Agent",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/scripts/check_task_completion.py",
+            "description": "Check if workflow completed and remind to update task statuses"
+          }
+        ]
+      }
+    ]
+  }
+}

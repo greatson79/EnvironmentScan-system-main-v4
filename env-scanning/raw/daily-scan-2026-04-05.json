@@ -1,0 +1,1469 @@
+{
+  "scan_metadata": {
+    "date": "2026-04-05",
+    "sources_configured": 1,
+    "sources_scanned": 1,
+    "sources_failed": 0,
+    "total_items": 50,
+    "execution_time": 40.66,
+    "mode": "multi_source",
+    "days_back": 7,
+    "timestamp": "2026-04-05T17:52:08.121883"
+  },
+  "items": [
+    {
+      "id": "federal-register-ff67cffdedde",
+      "title": "Ensuring Citizenship Verification and Integrity in Federal Elections",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06601/ensuring-citizenship-verification-and-integrity-in-federal-elections",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Presidential Document by Executive Office of the President",
+        "keywords": [
+          "executive office of the president"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Presidential Document",
+        "agencies": [
+          "Executive Office of the President"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119316+00:00"
+    },
+    {
+      "id": "federal-register-56533614e133",
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pollock in the Bering Sea and Aleutian Islands",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06566/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pollock-in-the-bering-sea-and",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "NMFS is reallocating the projected unused amounts of the Aleut Corporation and the Community Development Quota (CDQ) pollock directed fishing allowances (DFA) from the Aleutian Islands subarea to the Bering Sea subarea. This action is necessary to provide the opportunity for the harvest of the 2026 total allowable catch (TAC) of pollock, consistent with the goals and objectives of the Fishery Management Plan for Groundfish of the Bering Sea and Aleutian Islands Management Area (BSAI).",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119366+00:00"
+    },
+    {
+      "id": "federal-register-0a4f75997772",
+      "title": "Sunshine Act Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06565/sunshine-act-meetings",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Notice by Nuclear Regulatory Commission",
+        "keywords": [
+          "nuclear regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Nuclear Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119385+00:00"
+    },
+    {
+      "id": "federal-register-14ee81cf005c",
+      "title": "Implementing First Responders Passport Act To Exempt Certain First Responders From Passport Fees",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06564/implementing-first-responders-passport-act-to-exempt-certain-first-responders-from-passport-fees",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Department of State (\"Department\") proposes an adjustment to the Schedule of Fees for Consular Services of the Department of State's Bureau of Consular Affairs (\"Schedule of Fees\" or \"Schedule\"), to implement the First Responders Passport Act by adding an additional exemption from the payment of passport fees. This exemption authorizes the Special Issuance Agency (SIA) to issue no-fee regular passports to applicants who meet the criteria listed in the statute.",
+        "keywords": [
+          "administrative practice and procedure",
+          "fees",
+          "foreign service",
+          "immigration",
+          "passports and visas",
+          "passports and visas",
+          "state department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "State Department"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Fees",
+          "Foreign Service",
+          "Immigration",
+          "Passports and visas",
+          "Passports and visas"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119411+00:00"
+    },
+    {
+      "id": "federal-register-d776ad7eabf0",
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06563/airworthiness-directives-airbus-sas-airplanes",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A350-941 airplanes. This proposed AD was prompted by a manufacturing investigation that found improper application of the fastener retorque process at the center wing box (CWB) and belly fairing (BF) junctions could lead to insufficient clamping. This proposed AD would require replacing each affected part and applying additional head nut cap protection. The FAA is proposing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119436+00:00"
+    },
+    {
+      "id": "federal-register-deb0b332baa0",
+      "title": "Rescission of Obsolete Regulations Addressing Drug Addiction and Alcoholism Under Titles II and XVI of the Social Security Act",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06557/rescission-of-obsolete-regulations-addressing-drug-addiction-and-alcoholism-under-titles-ii-and-xvi",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This rule rescinds obsolete drug addiction and alcoholism (DAA) regulations.",
+        "keywords": [
+          "administrative practice and procedure",
+          "reporting and recordkeeping requirements",
+          "social security",
+          "vocational rehabilitation",
+          "social security administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Social Security Administration"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Reporting and recordkeeping requirements",
+          "Social security",
+          "Vocational rehabilitation"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119455+00:00"
+    },
+    {
+      "id": "federal-register-233b1a4224c5",
+      "title": "Allocation of Assets in Single-Employer Plans; Interest Assumptions for Valuing Benefits",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06556/allocation-of-assets-in-single-employer-plans-interest-assumptions-for-valuing-benefits",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This final rule amends the Pension Benefit Guaranty Corporation's regulation on Allocation of Assets in Single-Employer Plans to prescribe the spreads component of the interest assumption under the asset allocation regulation for plans with valuation dates of April 30, 2026-July 30, 2026. These interest assumptions are used for valuing benefits under terminating single-employer plans and for other purposes.",
+        "keywords": [
+          "employee benefit plans",
+          "pension insurance",
+          "pensions",
+          "pension benefit guaranty corporation"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Pension Benefit Guaranty Corporation"
+        ],
+        "topics": [
+          "Employee benefit plans",
+          "Pension insurance",
+          "Pensions"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119475+00:00"
+    },
+    {
+      "id": "federal-register-5c996be56812",
+      "title": "Railroad Cost Recovery Procedures-Productivity Adjustment",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06555/railroad-cost-recovery-procedures-productivity-adjustment",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "In a decision served on March 31, 2026, the Board proposed to adopt 1.015 (1.5% per year) as the measure of average (geometric mean) change in railroad productivity for the 2020-2024 (five-year) period. The Board's March 31, 2026 decision stated that comments may be filed addressing any perceived data and computational errors in the Board's calculation. The decision also stated that, unless a further order is issued postponing the effective date, the decision will take effect on April 18, 2026.",
+        "keywords": [
+          "surface transportation board"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Surface Transportation Board"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119495+00:00"
+    },
+    {
+      "id": "federal-register-971b77b71f0a",
+      "title": "General Provisions",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06553/general-provisions",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Farm Credit Administration (FCA, Agency, or we) is publishing the effective date of the final rule amending FCA's business planning requirements to comply with Executive Order 14219.",
+        "keywords": [
+          "farm credit administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Farm Credit Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119509+00:00"
+    },
+    {
+      "id": "federal-register-d61c64502eb0",
+      "title": "Noise Exposure Map for Centennial Airport, Englewood, Colorado",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06552/noise-exposure-map-for-centennial-airport-englewood-colorado",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Federal Aviation Administration (FAA) announces its determination that the noise exposure map (NEM) submitted by the Arapahoe County Public Airport Authority for Centennial Airport is compliant with applicable statutory and regulatory requirements.",
+        "keywords": [
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119526+00:00"
+    },
+    {
+      "id": "federal-register-b0ef212bfa2e",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06551/center-for-scientific-review-notice-of-closed-meetings",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Notice by Health and Human Services Department, National Institutes of Health",
+        "keywords": [
+          "health and human services department",
+          "national institutes of health"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "National Institutes of Health"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119540+00:00"
+    },
+    {
+      "id": "federal-register-aee48bc0c19b",
+      "title": "Agency Information Collection Extension",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06550/agency-information-collection-extension",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "EIA submitted an information collection request for extension as required by the Paperwork Reduction Act of 1995. The information collection requests a three-year extension of its Petroleum Supply Reporting System (PSRS), OMB Control Number 1905-0165. The PSRS consists of seven weekly surveys that make up the Weekly Petroleum Supply Reporting System (WPSRS), eight monthly surveys that make up the Monthly Petroleum Supply Reporting System (MPSRS), and two annual surveys, one of which is a proposed new standby survey.",
+        "keywords": [
+          "energy department",
+          "energy information administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Energy Information Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119560+00:00"
+    },
+    {
+      "id": "federal-register-31bff0bf222c",
+      "title": "Statement of Organization, Functions, and Delegations of Authority",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06549/statement-of-organization-functions-and-delegations-of-authority",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Department of Health and Human Services (HHS) is issuing this notice to revise its Statement of Organization, Functions, and Delegations of Authority for the Office of the Secretary (OS). This reorganization removes the Office of the Chief Information Officer (OCIO) from the organizational description for the Office of the Assistant Secretary for Administration (ASA), and establishes the OCIO as a stand-alone organization that reports directly to the Secretary and Deputy Secretary. These changes supersede the OCIO-related organizational language contained in the notice published at 74 FR 57747 (November 9, 2009) (document number E9-26963) and any subsequent amendments, as well as corresponding OCIO references in the Assistant Secretary for Administration Federal Register notice published at 90 FR 3655 (January 10, 2025) (document number 2025-00382).",
+        "keywords": [
+          "health and human services department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          ""
+        ],
+        "topics": []
+      },
+      "preliminary_category": "S",
+      "collected_at": "2026-04-05T08:52:08.119583+00:00"
+    },
+    {
+      "id": "federal-register-c624a4f40627",
+      "title": "Agency Information Collection Activities; Comment Request; Formula Grant EASIE Electronic Application System for Indian Education",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06548/agency-information-collection-activities-comment-request-formula-grant-easie-electronic-application",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
+        "keywords": [
+          "education department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Education Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.119598+00:00"
+    },
+    {
+      "id": "federal-register-a67aaf2dfc03",
+      "title": "Black Pine Gold Project, Cassia and Oneida Counties, Idaho",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06547/black-pine-gold-project-cassia-and-oneida-counties-idaho",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Forest Service (Sawtooth National Forest) intends to prepare an Environmental Impact Statement (EIS) to assess and disclose effects from the proposed mine plan of operations (MPO) submitted by Liberty Gold (USA) Inc. for the development of the Black Pine Gold Project. The Forest Service is the lead agency, and the Bureau of Land Management (BLM) Pocatello Field Office is a cooperating federal agency. This notice announces the beginning of a 30-day comment period to solicit comments and identify issues. The EIS will evaluate potential impacts of proposed open pit mining for gold and silver ores from National Forest System (NFS) and BLM administered lands and the processing of these minerals on BLM administered lands. The proposed action is expected to require a project-specific plan amendment to make the project consistent with the Sawtooth Forest Plan. The Planning, Administrative Reviews, and Litigation System identification number for the project is 68766.",
+        "keywords": [
+          "agriculture department",
+          "forest service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Agriculture Department",
+          "Forest Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120597+00:00"
+    },
+    {
+      "id": "federal-register-ace897825970",
+      "title": "Cypress Creek Private Strategies Master Fund, L.P., et al.",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06546/cypress-creek-private-strategies-master-fund-lp-et-al",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Notice by Securities and Exchange Commission",
+        "keywords": [
+          "securities and exchange commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Securities and Exchange Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120615+00:00"
+    },
+    {
+      "id": "federal-register-eece0e6e891d",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06545/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Notice by Federal Reserve System",
+        "keywords": [
+          "federal reserve system"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Reserve System"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120628+00:00"
+    },
+    {
+      "id": "federal-register-4e8e5f0df00b",
+      "title": "El Paso Electric Company; Palo Verde Nuclear Generating Station, Units 1, 2, and 3; Consideration of Approval of Transfer of Licenses",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06544/el-paso-electric-company-palo-verde-nuclear-generating-station-units-1-2-and-3-consideration-of",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The U.S. Nuclear Regulatory Commission (NRC, the Commission) received and is considering approval of an application filed by El Paso Electric Company (EPE) on January 28, 2026. The application seeks NRC approval of the indirect transfer of control of EPE's interests in Renewed Facility Operating License Nos. NPF-41, NPF-51, and NPF-74 for the Palo Verde Nuclear Generating Station (Palo Verde), Units 1, 2, and 3, respectively, as well as the associated general license for the Palo Verde Independent Spent Fuel Storage Installation (ISFSI) (together, the facility).",
+        "keywords": [
+          "nuclear regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Nuclear Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120649+00:00"
+    },
+    {
+      "id": "federal-register-f49ef388239b",
+      "title": "Amendment of Class D and Class E2 Airspace Over Binghamton, NY",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06543/amendment-of-class-d-and-class-e2-airspace-over-binghamton-ny",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This action amends Class D and Class E2 airspace at Greater Binghamton Airport/Edwin A. Link Field, Binghamton, NY. This action reduces the lateral dimensions of the Binghamton, NY Class D and Class E2 airspace, which are overlays, from a 4.4-mile radius of the airport to a 4.3-mile radius of the airport.",
+        "keywords": [
+          "airspace",
+          "incorporation by reference",
+          "navigation (air)",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Airspace",
+          "Incorporation by reference",
+          "Navigation (air)"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120669+00:00"
+    },
+    {
+      "id": "federal-register-a3e433864e09",
+      "title": "Notice of Public Meetings of the Illinois Advisory Committee to the U.S. Commission on Civil Rights",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06542/notice-of-public-meetings-of-the-illinois-advisory-committee-to-the-us-commission-on-civil-rights",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Illinois Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a public business meeting the third Tuesday of the month (April 2026 through December 2026) via Zoom at 3:30 p.m. CT. The purpose of these meetings is to discuss the Committee's project focused on the use of AI in law enforcement.",
+        "keywords": [
+          "civil rights commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Civil Rights Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120688+00:00"
+    },
+    {
+      "id": "federal-register-fceb26aec7e7",
+      "title": "Notice of Public Meetings of the Montana Advisory Committee to the U.S. Commission on Civil Rights",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06541/notice-of-public-meetings-of-the-montana-advisory-committee-to-the-us-commission-on-civil-rights",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Montana Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold public business meetings on April 9, and May 14, 2026 via Zoom at 3:00 p.m. MT. The purpose of these meetings is to plan upcoming briefing series on the Committee's project, Civil Rights Violations Resulting from Diversity, Equity, and Inclusion Policies at Montana Public Universities.",
+        "keywords": [
+          "civil rights commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Civil Rights Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120707+00:00"
+    },
+    {
+      "id": "federal-register-02e332e5e841",
+      "title": "Notice of Public Meeting of the New York Advisory Committee; Revision to Meeting Date and Time",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06540/notice-of-public-meeting-of-the-new-york-advisory-committee-revision-to-meeting-date-and-time",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Commission on Civil Rights published a notice in the Federal Register concerning meetings of the New York Advisory Committee.",
+        "keywords": [
+          "civil rights commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Civil Rights Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120722+00:00"
+    },
+    {
+      "id": "federal-register-de8aa01be56c",
+      "title": "Agency Information Collection Activities; Comment Request; Annual Report of Children in State Agency and Locally Operated Institutions for Neglected and Delinquent Children",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06539/agency-information-collection-activities-comment-request-annual-report-of-children-in-state-agency",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing an extension without change of a currently approved information collection request (ICR).",
+        "keywords": [
+          "education department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Education Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120737+00:00"
+    },
+    {
+      "id": "federal-register-fd83dfddf2f1",
+      "title": "Notice of Public Meeting of the Rhode Island Advisory Committee to the U.S. Commission on Civil Rights",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06538/notice-of-public-meeting-of-the-rhode-island-advisory-committee-to-the-us-commission-on-civil-rights",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission), and the Federal Advisory Committee Act (FACA), that a meeting of the Rhode Island Advisory Committee to the Commission will hold a public meeting via Zoom. The purpose of the meeting is to continue to hear topic presentations as part of the concept stage.",
+        "keywords": [
+          "civil rights commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Civil Rights Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120755+00:00"
+    },
+    {
+      "id": "federal-register-b69e4203e5e7",
+      "title": "National Environmental Policy Act",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06537/national-environmental-policy-act",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The U.S. Department of Agriculture (USDA) is adopting the interim final rule (IFR) published on July 3, 2025, with minor changes, as final. The IFR revised departmental regulations implementing the National Environmental Policy Act (NEPA) and removed various USDA agency regulations for implementing NEPA. The IFR was in response to the Council on Environmental Quality's (CEQ) rescission of its NEPA implementing regulations (which USDA's NEPA regulations were designed to supplement), statutory changes to NEPA, executive orders, and case law. In the IFR, USDA provided a 30-day comment period for the public to review and make comments. This final rule addresses public comments and adopts as final the IFR, with certain substantive changes as explained herein.",
+        "keywords": [
+          "environmental impact statements",
+          "agriculture department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Agriculture Department"
+        ],
+        "topics": [
+          "Environmental impact statements"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120778+00:00"
+    },
+    {
+      "id": "federal-register-4037923a64eb",
+      "title": "Notice Debarment; Federal E-Rate Program",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06536/notice-debarment-federal-e-rate-program",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Enforcement Bureau (the \"Bureau\") debars Susan Klein from the federal schools and libraries universal service support mechanism (E-Rate program) and all federal universal service support mechanisms for three years.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120793+00:00"
+    },
+    {
+      "id": "federal-register-f72030465d8a",
+      "title": "Notice Debarment; Federal E-Rate Program",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06535/notice-debarment-federal-e-rate-program",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Enforcement Bureau (the \"Bureau\") debars Peretz Klein from the federal schools and libraries universal service support mechanism (E-Rate program) and all federal universal service support mechanisms for three years.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120808+00:00"
+    },
+    {
+      "id": "federal-register-8ed76b17d5c1",
+      "title": "Airworthiness Directives; DG Aviation GmbH (Type Certificate Previously Held by DG Flugzeugbau GmbH) Gliders",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06534/airworthiness-directives-dg-aviation-gmbh-type-certificate-previously-held-by-dg-flugzeugbau-gmbh",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The FAA is adopting a new airworthiness directive (AD) for all DG Aviation GmbH (Type Certificate Previously Held by DG Flugzeugbau GmbH) Model DG-1000M gliders. This AD was prompted by reports of engine mount cracking near the propeller head. This AD requires updating the maintenance manual, inspecting the engine mount for cracks, and taking corrective actions if cracks are found. This AD also requires performing a powerplant belt tension inspection and, depending on the results of the inspection, adjusting the belt tension. This AD also requires balancing the propeller assembly and installing a carbon fiber reinforced plastic (CFRP) bracket. This AD also prohibits accomplishing certain maintenance actions in the maintenance manual. The FAA is issuing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120835+00:00"
+    },
+    {
+      "id": "federal-register-5b26823a8d2c",
+      "title": "North Pacific Swordfish United States Stakeholder Meeting; Meeting Announcement",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06533/north-pacific-swordfish-united-states-stakeholder-meeting-meeting-announcement",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "NMFS announces a U.S. stakeholder meeting to discuss North Pacific swordfish (NP SWO) management. This meeting is intended to gather stakeholder input and prepare for potential discussions at the 2026 annual meeting of the Western and Central Pacific Fisheries Commission Northern Committee (WCPFC NC) related to management of NP SWO fisheries. The meeting topics are described under the SUPPLEMENTARY INFORMATION section of this notice.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120853+00:00"
+    },
+    {
+      "id": "federal-register-f773a291b60a",
+      "title": "Airworthiness Directives; Costruzioni Aeronautiche Tecnam S.P.A. Airplanes",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06532/airworthiness-directives-costruzioni-aeronautiche-tecnam-spa-airplanes",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Costruzioni Aeronautiche Tecnam S.P.A. (Tecnam) Model P2010 airplanes. This AD was prompted by a report of unrecoverable loss of engine power. This AD requires repetitive detailed borescope inspections (BSIs) of the exhaust muffler flame tube and, depending on the results, repair of the exhaust muffler flame tube. This AD includes an optional terminating action for the inspection and repair requirements. The FAA is issuing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120876+00:00"
+    },
+    {
+      "id": "federal-register-da4458922f67",
+      "title": "Lifeline and Link Up Reform and Modernization; Bridging the Digital Divide for Low-Income Consumers; Telecommunications Carriers Eligible for Universal Service Support; Affordable Connectivity Program; Emergency Broadband Benefit Program",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06531/lifeline-and-link-up-reform-and-modernization-bridging-the-digital-divide-for-low-income-consumers",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "In this document, the Federal Communications Commission (Commission) seeks to ensure that Lifeline services are used to benefit and support eligible low-income Americans, that the program's funding is protected from waste, fraud, and abuse, and that service providers are in compliance with Commission rules. The Commission also seeks to update and streamline Lifeline and related rules.",
+        "keywords": [
+          "communications common carriers",
+          "reporting and recordkeeping requirements",
+          "telecommunications",
+          "telephone",
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": [
+          "Communications common carriers",
+          "Reporting and recordkeeping requirements",
+          "Telecommunications",
+          "Telephone"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120898+00:00"
+    },
+    {
+      "id": "federal-register-8dfd5ee06bed",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Local Assistance and Tribal Consistency Fund",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06530/agency-information-collection-activities-proposed-collection-comment-request-local-assistance-and",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The U.S. Department of the Treasury, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other federal agencies to take this opportunity to comment on this continuing information collection, as required by the Paperwork Reduction Act of 1995. The public is invited to submit comments on the collection listed below.",
+        "keywords": [
+          "treasury department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Treasury Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120916+00:00"
+    },
+    {
+      "id": "federal-register-d370bcf7d652",
+      "title": "L-Lysine From China; Scheduling of the Final Phase of Countervailing Duty and Antidumping Duty Investigations",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06529/l-lysine-from-china-scheduling-of-the-final-phase-of-countervailing-duty-and-antidumping-duty",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Commission hereby gives notice of the scheduling of the final phase of antidumping and countervailing duty investigation Nos. 701-TA-767 and 731-TA-1750 (Final) pursuant to the Tariff Act of 1930 to determine whether an industry in the United States is materially injured or threatened with material injury, or the establishment of an industry in the United States is materially retarded, by reason of imports of animal feed-grade l-lysine from China, provided for in subheading 2922.41.00 of the Harmonized Tariff Schedule of the United States, preliminarily determined by the Department of Commerce (\"Commerce\") to be subsidized and sold at less-than-fair-value.",
+        "keywords": [
+          "international trade commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "International Trade Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120938+00:00"
+    },
+    {
+      "id": "federal-register-b3f56739a536",
+      "title": "New Postal Products",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06528/new-postal-products",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+        "keywords": [
+          "postal regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Postal Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120958+00:00"
+    },
+    {
+      "id": "federal-register-8d6bdedda1ac",
+      "title": "Airworthiness Directives; Honda Aircraft Company LLC Airplanes",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06527/airworthiness-directives-honda-aircraft-company-llc-airplanes",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The FAA is superseding Airworthiness Directive (AD) 2021-22-12 for certain Honda Aircraft Company LLC (Honda) Model HA-420 airplanes. AD 2021-22-12 required removing and cleaning the inner diameter of the flap control pushrod assemblies and repetitively applying corrosion inhibiting compound (CIC) to this area. Since the FAA issued AD 2021- 22-12, new flap control pushrods have been approved that are more corrosion resistant and do not require repetitive CIC applications. In addition, referenced service material has been updated to a new revision that includes redesigned replacement flap control pushrod assemblies that have been modified to prevent interference with adjacent parts. This AD retains the requirements of AD 2021-22-12 and requires replacing the flap control pushrod assemblies with improved design pushrod assemblies for all airplanes affected by AD 2021-22-12, as well as for other airplanes not affected by AD 2021-22-12. The FAA is issuing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.120987+00:00"
+    },
+    {
+      "id": "federal-register-5911819da42f",
+      "title": "Notice of Request To Renew an Approved Information Collection: New Poultry Inspection System",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06526/notice-of-request-to-renew-an-approved-information-collection-new-poultry-inspection-system",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act of 1995 and Office of Management and Budget (OMB) regulations, FSIS is announcing its intention to request a renewal of the approved information collection regarding poultry slaughter inspection. There are no changes to the information collection. The approval for this information collection will expire on August 31, 2026. June 2, 2026.",
+        "keywords": [
+          "agriculture department",
+          "food safety and inspection service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Agriculture Department",
+          "Food Safety and Inspection Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121006+00:00"
+    },
+    {
+      "id": "federal-register-62b0d7101096",
+      "title": "Notice to All Interested Parties of Intent To Terminate Receivership",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06525/notice-to-all-interested-parties-of-intent-to-terminate-receivership",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Notice by Federal Deposit Insurance Corporation",
+        "keywords": [
+          "federal deposit insurance corporation"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Deposit Insurance Corporation"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121019+00:00"
+    },
+    {
+      "id": "federal-register-1ab03348a61b",
+      "title": "Bulk Manufacturer of Controlled Substances Application: Purisys, LLC",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06524/bulk-manufacturer-of-controlled-substances-application-purisys-llc",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Purisys, LLC has applied to be registered as a bulk manufacturer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+        "keywords": [
+          "justice department",
+          "drug enforcement administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Justice Department",
+          "Drug Enforcement Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121034+00:00"
+    },
+    {
+      "id": "federal-register-4229b3c6c47d",
+      "title": "Designation of P2P Methyl Glycidic Acid as a List I Chemical",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06523/designation-of-p2p-methyl-glycidic-acid-as-a-list-i-chemical",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Drug Enforcement Administration is finalizing the control of 2-methyl-3-phenyloxirane-2-carboxylic acid (also known as P2P methyl glycidic acid and BMK glycidic acid) and its esters, its optical and geometric isomers, its salts, salts of its optical and geometric isomers and its esters, and any combination thereof, whenever the existence of such is possible, as a list I chemical under the Controlled Substances Act (CSA). P2P methyl glycidic acid is used in the illicit manufacture of the controlled substances phenylacetone (also known as phenyl-2-propanone or P2P), methamphetamine, and amphetamine, and it is important to the manufacture of these substances. This final rule subjects handlers of P2P methyl glycidic acid to the chemical regulatory provisions of the CSA and its implementing regulations.",
+        "keywords": [
+          "administrative practice and procedure",
+          "drug traffic control",
+          "exports",
+          "imports",
+          "reporting and recordkeeping requirements",
+          "justice department",
+          "drug enforcement administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Justice Department",
+          "Drug Enforcement Administration"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Drug traffic control",
+          "Exports",
+          "Imports",
+          "Reporting and recordkeeping requirements"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121060+00:00"
+    },
+    {
+      "id": "federal-register-409d7011994d",
+      "title": "Bulk Manufacturer of Controlled Substances Application: Research Triangle Institute",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06522/bulk-manufacturer-of-controlled-substances-application-research-triangle-institute",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Research Triangle Institute has applied to be registered as a bulk manufacturer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+        "keywords": [
+          "justice department",
+          "drug enforcement administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Justice Department",
+          "Drug Enforcement Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121075+00:00"
+    },
+    {
+      "id": "federal-register-5671383af2e3",
+      "title": "Importer of Controlled Substances Application: Lipomed/LGC Standards",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06521/importer-of-controlled-substances-application-lipomedlgc-standards",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Lipomed/LGC Standards has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+        "keywords": [
+          "justice department",
+          "drug enforcement administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Justice Department",
+          "Drug Enforcement Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121089+00:00"
+    },
+    {
+      "id": "federal-register-cdef528a8210",
+      "title": "Importer of Controlled Substances Application: Blue Rabbit Veterinary LLC",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06520/importer-of-controlled-substances-application-blue-rabbit-veterinary-llc",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "Blue Rabbit Veterinary LLC has applied to be registered as an importer of basic class(es) of controlled substance(s). Refer to Supplementary Information listed below for further drug information.",
+        "keywords": [
+          "justice department",
+          "drug enforcement administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Justice Department",
+          "Drug Enforcement Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121105+00:00"
+    },
+    {
+      "id": "federal-register-a0147dff03cc",
+      "title": "Petition for Modification of Application of Existing Mandatory Safety Standards",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06519/petition-for-modification-of-application-of-existing-mandatory-safety-standards",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This notice is a summary of a petition for modification submitted to the Mine Safety and Health Administration (MSHA) by Mountain Coal Company, LLC.",
+        "keywords": [
+          "labor department",
+          "mine safety and health administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Labor Department",
+          "Mine Safety and Health Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121119+00:00"
+    },
+    {
+      "id": "federal-register-931cfee5d157",
+      "title": "Petition for Modification of Application of Existing Mandatory Safety Standards",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06518/petition-for-modification-of-application-of-existing-mandatory-safety-standards",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This notice is a summary of a petition for modification submitted to the Mine Safety and Health Administration (MSHA) by Marfork Coal Company, LLC.",
+        "keywords": [
+          "labor department",
+          "mine safety and health administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Labor Department",
+          "Mine Safety and Health Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121133+00:00"
+    },
+    {
+      "id": "federal-register-7669e76a9f52",
+      "title": "Petition for Modification of Application of Existing Mandatory Safety Standards",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06517/petition-for-modification-of-application-of-existing-mandatory-safety-standards",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This notice is a summary of a petition for modification submitted to the Mine Safety and Health Administration (MSHA) by Marfork Coal Company, LLC.",
+        "keywords": [
+          "labor department",
+          "mine safety and health administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Labor Department",
+          "Mine Safety and Health Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121147+00:00"
+    },
+    {
+      "id": "federal-register-4e319174e8de",
+      "title": "Petition for Modification of Application of Existing Mandatory Safety Standards",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06516/petition-for-modification-of-application-of-existing-mandatory-safety-standards",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This notice is a summary of a petition for modification submitted to the Mine Safety and Health Administration (MSHA) by Kepler Processing Company, LLC.",
+        "keywords": [
+          "labor department",
+          "mine safety and health administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Labor Department",
+          "Mine Safety and Health Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121160+00:00"
+    },
+    {
+      "id": "federal-register-5573a1500503",
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Texas Parks and Wildlife Department Fisheries Research; Correction",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06515/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-texas",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This document corrects an error in the ADDRESSES section of a proposed rule published on March 18, 2026.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121175+00:00"
+    },
+    {
+      "id": "federal-register-b6ce60d4bfc6",
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Pollock in Statistical Area 620 in the Gulf of Alaska",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06514/fisheries-of-the-exclusive-economic-zone-off-alaska-pollock-in-statistical-area-620-in-the-gulf-of",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "NMFS is prohibiting directed fishing for pollock in Statistical Area 620 in the Gulf of Alaska (GOA). This action is necessary to prevent exceeding the A season allowance of the 2026 total allowable catch (TAC) of pollock for Statistical Area 620 in the GOA.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121191+00:00"
+    },
+    {
+      "id": "federal-register-d0b5054658da",
+      "title": "Affirmative Decisions on Petitions for Modification Granted in Whole or in Part",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06513/affirmative-decisions-on-petitions-for-modification-granted-in-whole-or-in-part",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "The Federal Mine Safety and Health Act of 1977 governs the application, processing, and disposition of petitions for modification of mandatory safety standards. Any mine operator or representative of miners may petition for an alternative method of complying with an existing safety standard. MSHA reviews the content of each submitted petition, assesses the equipment and system(s) proposed at the mine in question, and ultimately issues a decision on the petition. This notice includes a list of petitions for modification that were granted after MSHA's review and investigation, between July 1, 2025, and December 31, 2025.",
+        "keywords": [
+          "labor department",
+          "mine safety and health administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Labor Department",
+          "Mine Safety and Health Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121211+00:00"
+    },
+    {
+      "id": "federal-register-b69adf7b49a5",
+      "title": "Petition for Modification of Application of Existing Mandatory Safety Standards",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/03/2026-06512/petition-for-modification-of-application-of-existing-mandatory-safety-standards",
+        "published_date": "2026-04-03"
+      },
+      "content": {
+        "abstract": "This notice is a summary of a petition for modification submitted to the Mine Safety and Health Administration (MSHA) by Marfork Coal Company, LLC.",
+        "keywords": [
+          "labor department",
+          "mine safety and health administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Labor Department",
+          "Mine Safety and Health Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-05T08:52:08.121225+00:00"
+    }
+  ]
+}

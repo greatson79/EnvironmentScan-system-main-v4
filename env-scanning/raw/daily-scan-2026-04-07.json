@@ -1,0 +1,1506 @@
+{
+  "scan_metadata": {
+    "date": "2026-04-07",
+    "sources_configured": 1,
+    "sources_scanned": 1,
+    "sources_failed": 0,
+    "total_items": 50,
+    "execution_time": 23.75,
+    "mode": "multi_source",
+    "days_back": 7,
+    "timestamp": "2026-04-07T13:24:01.880073"
+  },
+  "items": [
+    {
+      "id": "federal-register-93f722be19cb",
+      "title": "Determination of Attainment by the Attainment Date But for International Emissions for the 2015 Ozone National Ambient Air Quality Standards; Phoenix-Mesa Nonattainment Area, Arizona",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/C1-2026-05601/determination-of-attainment-by-the-attainment-date-but-for-international-emissions-for-the-2015",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Rule by Environmental Protection Agency",
+        "keywords": [
+          "environmental protection agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877648+00:00"
+    },
+    {
+      "id": "federal-register-b88b6d29c0f5",
+      "title": "Submission for OMB Review; 30-Day Comment Request; Hazardous Waste Worker Training-42 CFR Part 65, National Institute of Environmental Health Sciences (NIEHS)",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/C1-2026-05238/submission-for-omb-review-30-day-comment-request-hazardous-waste-worker-training-42-cfr-part-65",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Health and Human Services Department, National Institutes of Health",
+        "keywords": [
+          "health and human services department",
+          "national institutes of health"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "National Institutes of Health"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877688+00:00"
+    },
+    {
+      "id": "federal-register-3b9ec2e07d5b",
+      "title": "Protection of Stratospheric Ozone: Listing of Substitutes Under the Significant New Alternatives Policy Program in Refrigeration and Air Conditioning and Fire Suppression; Supplemental Notice of Proposed Rulemaking",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06665/protection-of-stratospheric-ozone-listing-of-substitutes-under-the-significant-new-alternatives",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Pursuant to the U.S. Environmental Protection Agency's Significant New Alternatives Policy program, this action proposes to list the refrigerant 2,3,3,3-tetrafluoropropene, also known as HFO- 1234yf, as acceptable, subject to use conditions, in the motor vehicle air conditioning end-use for retrofit of heavy-duty pickup trucks and complete heavy-duty vans. This action supplements the Agency's November 10, 2025, proposal with respect to the proposed listings in the motor vehicle air conditioning end-use for retrofit of heavy-duty pickup trucks and heavy-duty vans (both complete and incomplete vans). The EPA is also supplementing that proposal to clarify the intended scope of that proposed rule. The EPA is providing an opportunity for public comment on the additional listing and the clarification. The EPA is not reopening the comment period for any portions of the November 10, 2025, proposal which are not explicitly addressed in this supplemental proposal.",
+        "keywords": [
+          "administrative practice and procedure",
+          "air pollution control",
+          "chemicals",
+          "environmental protection",
+          "environmental protection agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Air pollution control",
+          "Chemicals",
+          "Environmental protection"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877724+00:00"
+    },
+    {
+      "id": "federal-register-fa4856eb83a6",
+      "title": "Magnuson-Stevens Fishery Conservation and Management Act Provisions; Modifications To Conform U.S. Fishery Regulations With the Presidential Proclamation Unleashing Commercial Fishing in the Atlantic",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06663/magnuson-stevens-fishery-conservation-and-management-act-provisions-modifications-to-conform-us",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "This action rescinds regulations issued under the Magnuson- Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act) that restrict commercial fishing within the Northeast Canyons and Seamounts Marine National Monument (Monument). This action is necessary to conform U.S. fishing regulations with the February 6, 2026, Presidential Proclamation Unleashing Commercial Fishing in the Atlantic.",
+        "keywords": [
+          "fisheries",
+          "fishing",
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": [
+          "Fisheries",
+          "Fishing"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877768+00:00"
+    },
+    {
+      "id": "federal-register-b569a61dc104",
+      "title": "Drinking Water Contaminant Candidate List 6-Draft",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06662/drinking-water-contaminant-candidate-list-6-draft",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The U.S. Environmental Protection Agency (EPA) is publishing a draft list of contaminants that are currently not subject to any proposed or promulgated national primary drinking water regulations for public review and comment. These contaminants are known or anticipated to occur in public water systems and may require regulation under the Safe Drinking Water Act (SDWA) in the future. The draft list provided in this document is the sixth Contaminant Candidate List (CCL) published by the Agency since the SDWA amendments of 1996. The draft Sixth Contaminant Candidate List (CCL 6 or the list) includes 75 chemicals, 4 chemical groups (disinfection byproducts (DBPs), microplastics, per- and polyfluoroalkyl substances (PFAS), and pharmaceuticals) and 9 microbes. The EPA seeks public comment on the draft CCL 6 and the process used to develop the draft CCL 6. The EPA will consider all information and comments received in response to this notice of availability for determining the final CCL 6.",
+        "keywords": [
+          "environmental protection agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877794+00:00"
+    },
+    {
+      "id": "federal-register-18ce10184129",
+      "title": "Determination That STRATTERA (Atomoxetine Hydrochloride) Capsules 5 Milligrams, 10 Milligrams, 18 Milligrams, 25 Milligrams, 40 Milligrams, 60 Milligrams, 80 Milligrams, and 100 Milligrams, Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06661/determination-that-strattera-atomoxetine-hydrochloride-capsules-5-milligrams-10-milligrams-18",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Food and Drug Administration (FDA or Agency) has determined that STRATTERA (atomoxetine hydrochloride) capsules 5 milligrams, 10 milligrams, 18 Milligrams, 25 Milligrams, 40 Milligrams, 60 Milligrams, 80 Milligrams, and 100 Milligrams, were not withdrawn from sale for reasons of safety or effectiveness. This determination means that FDA will not begin procedures to withdraw approval of abbreviated new drug applications (ANDAs) that refer to this drug product, and it will allow FDA to continue to approve ANDAs that refer to the product as long as they meet relevant legal and regulatory requirements.",
+        "keywords": [
+          "health and human services department",
+          "food and drug administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "Food and Drug Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877817+00:00"
+    },
+    {
+      "id": "federal-register-c952f8e8c5b5",
+      "title": "Electronic Submission of Postmarketing Individual Case Safety Reports to the Food and Drug Administration Adverse Event Monitoring System Using International Council of Harmonisation E2B(R3) Data Standards; Regional Data Elements and Implementation Schedule",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06660/electronic-submission-of-postmarketing-individual-case-safety-reports-to-the-food-and-drug",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Food and Drug Administration (FDA or we) is announcing an updated data standard requirement for the submission of postmarketing individual case safety report (ICSR) submissions for human drug products, biological products, and drug- or biologic-led combination products to the FDA Adverse Event Monitoring System (AEMS) database (formerly FDA Adverse Event Reporting System (FAERS)) via the Electronic Submissions Gateway Next Generation (ESG NextGen). Starting October 1, 2026, postmarketing ICSRs must be reported using the data standards adopted by FDA in the International Council for Harmonisation (ICH) guidance for industry entitled \"E2B(R3) Electronic Transmission of Individual Case Safety Reports (ICSRs) Implementation Guide--Data Elements and Message Specification\" (ICH E2B(R3) Implementation Guidance), which incorporates by reference regional implementation guides (collectively ICH E2B(R3) data standards).",
+        "keywords": [
+          "health and human services department",
+          "food and drug administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "Food and Drug Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877844+00:00"
+    },
+    {
+      "id": "federal-register-8a24a37a2b5b",
+      "title": "Notice of Public Meetings of the New Jersey Advisory Committee to the U.S. Commission on Civil Rights",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06659/notice-of-public-meetings-of-the-new-jersey-advisory-committee-to-the-us-commission-on-civil-rights",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the New Jersey Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold public meetings via Zoom. The purpose is for the committee to begin the implementation stage on the committee's chosen topic of antisemitism and civil rights.",
+        "keywords": [
+          "civil rights commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Civil Rights Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877861+00:00"
+    },
+    {
+      "id": "federal-register-1c0018e55317",
+      "title": "Notice of Cancellation of Withdrawal Application for the Upper Pecos River Watershed Protection Area, New Mexico",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06658/notice-of-cancellation-of-withdrawal-application-for-the-upper-pecos-river-watershed-protection-area",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Bureau of Land Management (BLM) and the U.S. Department of Agriculture, Forest Service (USFS) announce the cancellation of their joint Upper Pecos River Watershed Area withdrawal application for 163,483 acres of National Forest System lands and 1,327.16 acres of public lands in northern New Mexico. The segregation initiated by publication of notice of the withdrawal application will terminate by operation of law 30 days after publication of this Notice at the time listed below.",
+        "keywords": [
+          "interior department",
+          "land management bureau"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "Land Management Bureau"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877879+00:00"
+    },
+    {
+      "id": "federal-register-c37a72327980",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06657/center-for-scientific-review-notice-of-closed-meetings",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Health and Human Services Department, National Institutes of Health",
+        "keywords": [
+          "health and human services department",
+          "national institutes of health"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "National Institutes of Health"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877891+00:00"
+    },
+    {
+      "id": "federal-register-a6cfa218dcc5",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06656/information-collection-being-reviewed-by-the-federal-communications-commission",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collection of information is necessary for the proper performance of the functions of the Commission, including whether the information shall have practical utility; the accuracy of the Commission's burden estimate; ways to enhance the quality, utility, and clarity of the information collected; ways to minimize the burden of the collection of information on the respondents, including the use of automated collection techniques or other forms of information technology; and ways to further reduce the information collection burden on small business concerns with fewer than 25 employees.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877916+00:00"
+    },
+    {
+      "id": "federal-register-b98b35dc9ccd",
+      "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06655/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the FCC seeks specific comment on how it might further reduce the information collection burden for small business concerns with fewer than 25 employees. The Commission may not conduct or sponsor a collection of information unless it displays a currently valid Office of Management and Budget (OMB) control number. No person shall be subject to any penalty for failing to comply with a collection of information subject to the PRA that does not display a valid OMB control number.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877938+00:00"
+    },
+    {
+      "id": "federal-register-99833c78eafe",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06654/center-for-scientific-review-notice-of-closed-meetings",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Health and Human Services Department, National Institutes of Health",
+        "keywords": [
+          "health and human services department",
+          "national institutes of health"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "National Institutes of Health"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.877954+00:00"
+    },
+    {
+      "id": "federal-register-902a3ff298f7",
+      "title": "Seeking Comment on Prohibiting Importation and Marketing of Previously Authorized Covered Communications Equipment Added to the Covered List in 2024 or Earlier",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06653/seeking-comment-on-prohibiting-importation-and-marketing-of-previously-authorized-covered",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "In this document, the Public Safety and Homeland Security Bureau (PSHSB) and the Office of Engineering and Technology (OET) seek comment on proposing to prohibit the continued importation and marketing of certain previously authorized equipment that has been determined to pose an unacceptable risk to the national security of the United States or the security and safety of United States persons. Through Public Notice, acting pursuant to Sec. 2.939 of the Federal Communications Commission's rules, PSHSB and OET propose to apply such prohibitions to communications equipment added to the Covered List in 2024 or earlier.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878753+00:00"
+    },
+    {
+      "id": "federal-register-24fdea1a3691",
+      "title": "Call for Applications for Secretary Appointment to Treasury Tribal Advisory Committee",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06652/call-for-applications-for-secretary-appointment-to-treasury-tribal-advisory-committee",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "This notice announces that the U.S. Department of the Treasury (Treasury), pursuant to the Tribal General Welfare Exclusion Act of 2014 (TGWEA), seeks applications on behalf of the Secretary of the Treasury (Secretary) for the appointment of three members to the Treasury Tribal Advisory Committee (TTAC). Under section 3 of the TGWEA, the TTAC was established to advise the Secretary on matters related to the taxation of Indians, training and education for Internal Revenue Service (IRS) field agents who administer and enforce internal revenue laws with respect to Indian Tribes, and training and technical assistance for Tribal financial officers. Applications should describe the candidate's qualifications for TTAC membership. Submittal of an application and resume is required to be considered.",
+        "keywords": [
+          "treasury department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Treasury Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878791+00:00"
+    },
+    {
+      "id": "federal-register-6dddd21c963b",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06651/center-for-scientific-review-notice-of-closed-meetings",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Health and Human Services Department, National Institutes of Health",
+        "keywords": [
+          "health and human services department",
+          "national institutes of health"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "National Institutes of Health"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878804+00:00"
+    },
+    {
+      "id": "federal-register-e5fc12179904",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06650/center-for-scientific-review-notice-of-closed-meetings",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Health and Human Services Department, National Institutes of Health",
+        "keywords": [
+          "health and human services department",
+          "national institutes of health"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "National Institutes of Health"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878816+00:00"
+    },
+    {
+      "id": "federal-register-67e2c83a2b72",
+      "title": "Float Glass Products From the People's Republic of China and Malaysia: Countervailing Duty Orders",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06649/float-glass-products-from-the-peoples-republic-of-china-and-malaysia-countervailing-duty-orders",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and U.S. International Trade Commission (ITC), Commerce is issuing countervailing duty (CVD) orders on float glass products (float glass) from the People's Republic of China (China) and Malaysia.",
+        "keywords": [
+          "commerce department",
+          "international trade administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "International Trade Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878832+00:00"
+    },
+    {
+      "id": "federal-register-0d07290c41f0",
+      "title": "Request for Information: Icebreaker Collaboration Effort (ICE) Pact",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06648/request-for-information-icebreaker-collaboration-effort-ice-pact",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "This notice requests information from the public to assist MARAD in determining which shipyards in the U.S. have the capacity to construct ships capable of operating in ice conditions and to identify what factors would be necessary to further develop and construct icebreaker ships in the U.S. Information gathered in response to the request could be used to increase the capacity of the U.S. to design, produce, and maintain polar icebreakers through trilateral collaboration with Canada and Finland, while supporting each country's shipbuilding industrial base.",
+        "keywords": [
+          "transportation department",
+          "maritime administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Transportation Department",
+          "Maritime Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878850+00:00"
+    },
+    {
+      "id": "federal-register-6cd382fb6b1b",
+      "title": "Float Glass Products From the People's Republic of China: Antidumping Duty Order",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06647/float-glass-products-from-the-peoples-republic-of-china-antidumping-duty-order",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Based on affirmative final determination by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing the antidumping duty (AD) order on float glass products from the People's Republic of China (China).",
+        "keywords": [
+          "commerce department",
+          "international trade administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "International Trade Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878865+00:00"
+    },
+    {
+      "id": "federal-register-3750708a7ed7",
+      "title": "Reducing Bureaucracy and Burden for Children, Youth, and Family Programs",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06646/reducing-bureaucracy-and-burden-for-children-youth-and-family-programs",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Department of Health and Human Services, Administration for Children and Families proposes to remove duplicative or unnecessary sections from the Runaway and Homeless Youth Program regulations (45 CFR part 1351). These amendments will streamline the Runaway and Homeless Youth Program regulations to make them more accessible to the public. The docket on https://www.regulations.gov will include a plain language summary of the NPRM.",
+        "keywords": [
+          "administrative practice and procedure",
+          "grant programs-social programs",
+          "homeless",
+          "reporting and recordkeeping requirements",
+          "technical assistance",
+          "youth",
+          "health and human services department",
+          "children and families administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Health and Human Services Department",
+          "Children and Families Administration"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Grant programs-social programs",
+          "Homeless",
+          "Reporting and recordkeeping requirements",
+          "Technical assistance",
+          "Youth"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878887+00:00"
+    },
+    {
+      "id": "federal-register-f6a33bd27d5d",
+      "title": "Department of Defense Wage Committee (DoD Wage Committee); Notice of Federal Advisory Committee Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06645/department-of-defense-wage-committee-dod-wage-committee-notice-of-federal-advisory-committee",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The DoD is publishing this notice to announce that the following Federal Advisory Committee meetings of the DoD Wage Committee will take place.",
+        "keywords": [
+          "defense department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Defense Department",
+          ""
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878902+00:00"
+    },
+    {
+      "id": "federal-register-0d41fa9eb9e7",
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06644/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Federal Reserve System",
+        "keywords": [
+          "federal reserve system"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Reserve System"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878914+00:00"
+    },
+    {
+      "id": "federal-register-c47c1243a1f8",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company; Correction",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06643/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company-correction",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Federal Reserve System",
+        "keywords": [
+          "federal reserve system"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Reserve System"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878925+00:00"
+    },
+    {
+      "id": "federal-register-450a35bfdb4f",
+      "title": "Medicare Program; Inpatient Rehabilitation Facility Prospective Payment System for Federal Fiscal Year 2027 and Updates to the IRF Quality Reporting Program",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06642/medicare-program-inpatient-rehabilitation-facility-prospective-payment-system-for-federal-fiscal",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "This proposed rule would update the prospective payment rates for inpatient rehabilitation facilities (IRFs) for Federal fiscal year (FY) 2027. As required by statute, this proposed rule includes the classification and weighting factors for the IRF prospective payment system's case-mix groups and a description of the methodologies and data used in computing the prospective payment rates for FY 2027. It also continues the third year of the 3-year phaseout of the rural adjustment, which began in FY 2025. This proposed rule includes a solicitation for public comments on alternative data sources for the IRF PPS wage index; proposes to require all therapy treatments or therapy evaluations to begin within 36-hours from midnight on the day of admission; proposes to require a patient's current functional status be documented on the preadmission screening; proposes requirements for the initial Interdisciplinary Team meeting; and includes a request for information on potential future IRF PPS payment reform. Additionally, the proposed rule includes updates to the IRF Quality Reporting Program. Furthermore, the proposed rule includes changes to the Durable Medical Equipment, Prosthetics, Orthotics, and Supplies Competitive Bidding Program.",
+        "keywords": [
+          "administrative practice and procedure",
+          "biologics",
+          "diseases",
+          "drugs",
+          "health facilities",
+          "health professions",
+          "medicare",
+          "puerto rico",
+          "reporting and recordkeeping requirements",
+          "health and human services department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Health and Human Services Department",
+          "Centers for Medicare & Medicaid Services"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Biologics",
+          "Diseases",
+          "Drugs",
+          "Health facilities",
+          "Health professions",
+          "Medicare",
+          "Puerto Rico",
+          "Reporting and recordkeeping requirements"
+        ]
+      },
+      "preliminary_category": "S",
+      "collected_at": "2026-04-07T04:24:01.878957+00:00"
+    },
+    {
+      "id": "federal-register-dab25820e4b8",
+      "title": "Pacific Gas and Electric Company; Diablo Canyon Nuclear Power Plant, Units 1 and 2; License Renewal and Record of Decision",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06641/pacific-gas-and-electric-company-diablo-canyon-nuclear-power-plant-units-1-and-2-license-renewal-and",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The U.S. Nuclear Regulatory Commission (NRC) has issued Renewed Facility Operating License Nos. DPR-80 and DPR-82 to Pacific Gas and Electric Company (PG&E) for Diablo Canyon Nuclear Power Plant (Diablo Canyon), Units 1 and 2, respectively. In addition, the NRC has prepared a record of decision (ROD) that supports the NRC's decision to issue Renewed Facility Operating License Nos. DPR-80 and DPR-82.",
+        "keywords": [
+          "nuclear regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Nuclear Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878974+00:00"
+    },
+    {
+      "id": "federal-register-bf0cad32010f",
+      "title": "60-Day Notice of Proposed Information Collection: Foreign Assistance Requirements",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06640/60-day-notice-of-proposed-information-collection-foreign-assistance-requirements",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this notice is to allow 60 days for public comment preceding submission of the collection to OMB.",
+        "keywords": [
+          "state department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "State Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.878990+00:00"
+    },
+    {
+      "id": "federal-register-9f72372a78c9",
+      "title": "Notice of Public Meeting of the West Virginia Advisory Committee to the U.S. Commission on Civil Rights",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06639/notice-of-public-meeting-of-the-west-virginia-advisory-committee-to-the-us-commission-on-civil",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the West Virginia Advisory Committee (Committee) to the U.S. Commission on Civil Rights will hold a public business meeting via Zoom. The purpose of the meeting is to discuss matters related to the Committee's civil rights project.",
+        "keywords": [
+          "civil rights commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Civil Rights Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879006+00:00"
+    },
+    {
+      "id": "federal-register-0731d7ee3764",
+      "title": "Endangered and Threatened Wildlife and Plants; Request for Information on Implementation of the Gray Wolf (Canis Lupus) Nonessential Experimental Population Rule in Colorado",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06638/endangered-and-threatened-wildlife-and-plants-request-for-information-on-implementation-of-the-gray",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The U.S. Fish and Wildlife Service (Service) requests information regarding the implementation of the Endangered Species Act (ESA) section 10(j) nonessential experimental population rule (10(j) Rule) for gray wolves (Canis lupus) in the State of Colorado, 88 FR 77014 (Nov. 8, 2023). Over the past few years, many wolf-livestock depredation events have been verified in Colorado and the total number of verified depredations and associated claims has vastly exceeded the funds currently available under Colorado's existing livestock compensation scheme. The Service is seeking information on how the State of Colorado (State), including Colorado Parks and Wildlife (CPW) and partner agencies, is implementing the 10(j) Rule and addressing conflicts between wolves and livestock. Specifically, the Service seeks information on the State's implementation of the 10(j) Rule, as published. On December 12, 2023, the Service signed a Memorandum of Agreement (MOA) with CPW in order to \"facilitate and enable active participation in wolf conservation and management by CPW personnel.\" Of the several listed objectives, CPW committed to \". . . share timely information, as appropriate and necessary, with partners and stakeholders (including the public) regarding the Colorado Gray Wolf Restoration Program to foster transparent and effective communications regarding the goals and commitments under the MOA.\" Moreover, the MOA stated that the CPW would \"conduct public outreach and provide information about gray wolves and gray wolf management in Colorado\" and \"implement proactive strategies and conduct or direct non-lethal and lethal control actions to reduce and/or resolve gray wolf-livestock conflict and human safety concerns . . .\" The MOA also states that CPW will \"communicate regularly (at a minimum, quarterly) with the Service's Wolf Coordinator or appropriate Service representative\" as well as \"Assist the Service by providing data as needed to allow the Service to carry out its responsibilities under the ESA and to facilitate coordination of management responses to wolf conflicts in Colorado . . .\" The Service seeks comment on implementation of the aspects of this MOA, including but not limited to: conflict prevention and response, stakeholder engagement, and recommendations for improving outcomes. The Service also seeks information regarding the impact, if any, that the experimental wolf population is having on wild ungulate herds or populations, including on Tribal lands, as discussed in the final rule, as well as implementation of associated procedures to allow nonlethal and lethal management of gray wolves that are having an unacceptable impact. The Service also solicits feedback on CPWs tracking of wolf conflict risk, activities taken to minimize wolf conflict risk, and the allowable forms of take for gray wolves as outlined in the 10(j) rule, including: \"the taking of wolves in the act of attacking livestock\" on both private and public land as well as the \"agency take of wolves that depredate livestock.\" Finally, the Service seeks information regarding implementation of the State's livestock loss compensation program as a means to achieve minimization of conflict risk as outlined in the Colorado Wolf Restoration and Management Plan incorporated by reference in the MOA.",
+        "keywords": [
+          "interior department",
+          "fish and wildlife service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "Fish and Wildlife Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879066+00:00"
+    },
+    {
+      "id": "federal-register-e7fbb2ade2c2",
+      "title": "Big Wood Canal Company; Notice of Application Accepted for Filing and Soliciting Motions To Intervene and Protests",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06637/big-wood-canal-company-notice-of-application-accepted-for-filing-and-soliciting-motions-to-intervene",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879079+00:00"
+    },
+    {
+      "id": "federal-register-d90c795c5bad",
+      "title": "Combined Notice of Filings #1",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06636/combined-notice-of-filings-1",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879091+00:00"
+    },
+    {
+      "id": "federal-register-a8bc9aae603f",
+      "title": "Gulf South Pipeline Company, LLC, Texas Gas Transmission, LLC; Notice of Availability of the Draft Environmental Impact Statement for the Proposed Kosciusko Junction Pipeline Project",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06635/gulf-south-pipeline-company-llc-texas-gas-transmission-llc-notice-of-availability-of-the-draft",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879105+00:00"
+    },
+    {
+      "id": "federal-register-7aa20d168412",
+      "title": "Combined Notice of Filings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06634/combined-notice-of-filings",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879116+00:00"
+    },
+    {
+      "id": "federal-register-6dbb2d37d6d1",
+      "title": "Reducing Bureaucracy and Burden in Family Violence and Prevention Services",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06633/reducing-bureaucracy-and-burden-in-family-violence-and-prevention-services",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Department of Health and Human Services, Administration for Children and Families, proposes to remove duplicative or unnecessary Sections from the Family Violence Prevention and Services program regulations (45 CFR part 1370). These amendments will streamline the Family Violence Prevention and Services regulations and make them more accessible to the public. The docket on https:// www.regulations.gov will include a plain language summary of the NPRM.",
+        "keywords": [
+          "administrative practice and procedure",
+          "child welfare",
+          "domestic violence",
+          "grant programs-indians",
+          "grant programs-social programs",
+          "public assistance programs",
+          "reporting and recordkeeping requirements",
+          "technical assistance",
+          "health and human services department",
+          "children and families administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Health and Human Services Department",
+          "Children and Families Administration"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Child welfare",
+          "Domestic violence",
+          "Grant programs-Indians",
+          "Grant programs-social programs",
+          "Public assistance programs",
+          "Reporting and recordkeeping requirements",
+          "Technical assistance"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879139+00:00"
+    },
+    {
+      "id": "federal-register-80a45e36b265",
+      "title": "Work Participation Rate Calculation Changes: Recalibration of the Caseload Reduction Credit and Prohibition of Small Checks in Work Participation Rate Calculation",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06632/work-participation-rate-calculation-changes-recalibration-of-the-caseload-reduction-credit-and",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "ACF proposes to make changes to the Temporary Assistance for Needy Families (TANF) program regulations to reset the base year of the caseload reduction credit from fiscal year (FY) 2005 to the new year established by Congress, which is currently FY 2015, and to exclude from the TANF work participation rate calculations certain cases that receive assistance payments benefits of less than $35 for a month. These changes are required by the Fiscal Responsibility Act (FRA) of 2023. The docket on https://www.regulations.gov will include a plain language summary of the NPRM as required by 5 U.S.C. 553(b)(4).",
+        "keywords": [
+          "administrative practice and procedure",
+          "employment",
+          "grant programs-social programs",
+          "public assistance programs",
+          "reporting and recordkeeping requirements",
+          "reporting and recordkeeping requirements",
+          "health and human services department",
+          "children and families administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Health and Human Services Department",
+          "Children and Families Administration"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Employment",
+          "Grant programs-social programs",
+          "Public assistance programs",
+          "Reporting and recordkeeping requirements",
+          "Reporting and recordkeeping requirements"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879164+00:00"
+    },
+    {
+      "id": "federal-register-d31eedd13984",
+      "title": "60-Day Notice of Proposed Information Collection: Annual Brokering Report",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06631/60-day-notice-of-proposed-information-collection-annual-brokering-report",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this notice is to allow 60 days for public comment preceding submission of the collection to OMB.",
+        "keywords": [
+          "state department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "State Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879180+00:00"
+    },
+    {
+      "id": "federal-register-42cd96e5202c",
+      "title": "60-Day Notice of Proposed Information Collection: Brokering Prior Approval (License)",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06630/60-day-notice-of-proposed-information-collection-brokering-prior-approval-license",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Department of State is seeking Office of Management and Budget (OMB) approval for the information collection described below. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this notice is to allow 60 days for public comment preceding submission of the collection to OMB.",
+        "keywords": [
+          "state department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "State Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879196+00:00"
+    },
+    {
+      "id": "federal-register-49767cd4fdd8",
+      "title": "Interest Rate Paid on Cash Deposited To Secure U.S. Immigration and Customs Enforcement Immigration Bonds",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06629/interest-rate-paid-on-cash-deposited-to-secure-us-immigration-and-customs-enforcement-immigration",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "For the period beginning April 1, 2026, and ending on June 30, 2026, the U.S. Immigration and Customs Enforcement Immigration Bond interest rate is 3 per centum per annum.",
+        "keywords": [
+          "treasury department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Treasury Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879208+00:00"
+    },
+    {
+      "id": "federal-register-965650a5b2b8",
+      "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06628/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Airbus Canada Limited Partnership Model BD-500-1A10 and BD-500- 1A11 airplanes. This AD was prompted by a report that, during a quality check in production, it was found that some of the tie rods supporting the overhead stowage compartments in the passenger cabin did not have enough thread engagement of the turnbuckle into the tie rod. This AD requires an inspection for proper thread engagement of the tie rods and, if necessary, adjustment of the tie rod engagement. The FAA is issuing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879231+00:00"
+    },
+    {
+      "id": "federal-register-e885a76bed42",
+      "title": "Airworthiness Directives; Dassault Aviation Airplanes",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06627/airworthiness-directives-dassault-aviation-airplanes",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The FAA is adopting a new airworthiness directive (AD) for certain Dassault Aviation Model FALCON 2000EX airplanes. This AD was prompted by a report of simultaneous failures of the main DC buses powered by Generator 1 (GEN1), and Generator 2 (GEN2) after flap extension during approach. This AD requires revising the existing airplane flight manual (AFM). The FAA is issuing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879251+00:00"
+    },
+    {
+      "id": "federal-register-2caabd9f8114",
+      "title": "Submission for OMB Review; Comments Request; Correction",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06626/submission-for-omb-review-comments-request-correction",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "DFC published a document in the Federal Register on March 30, 2026, concerning requests for comments on this notice to allow an additional thirty (30) days for public comments to be submitted. The 60-day date was an error.",
+        "keywords": [
+          "u.s. international development finance corporation"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "U.S. International Development Finance Corporation"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879265+00:00"
+    },
+    {
+      "id": "federal-register-3d11a2926223",
+      "title": "Establishment of Class E Airspace; Birch Creek Airport, Birch Creek, AK",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06625/establishment-of-class-e-airspace-birch-creek-airport-birch-creek-ak",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "This action corrects a final rule published by the FAA in the Federal Register on March 20, 2026, establishing Class E airspace extending upward from 700 feet above the surface at Birch Creek Airport, Birch Creek, Alaska (AK). Specifically, this action corrects the region code associated with the affected airspace.",
+        "keywords": [
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879282+00:00"
+    },
+    {
+      "id": "federal-register-64a95d9ffe3b",
+      "title": "Notification of Withdrawal of Fair Housing and Equal Opportunity Guidance Documents",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06624/notification-of-withdrawal-of-fair-housing-and-equal-opportunity-guidance-documents",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "This notice informs the public that the Office of Fair Housing and Equal Opportunity (FHEO) has withdrawn the guidance documents identified below.",
+        "keywords": [
+          "housing and urban development department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Housing and Urban Development Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879295+00:00"
+    },
+    {
+      "id": "federal-register-edb2f2432d01",
+      "title": "Notice of Funding Opportunity for the Delta Health Care Services Grant (DHCS) for Fiscal Year 2026",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06623/notice-of-funding-opportunity-for-the-delta-health-care-services-grant-dhcs-for-fiscal-year-2026",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Rural Business-Cooperative Service (RBCS or the Agency), a Rural Development (RD) agency of the United States Department of Agriculture (USDA) is issuing a Notice of Funding Opportunity (NOFO) to announce acceptance of grant applications under the Delta Health Care Services Grant Program (DHCS). In future years this funding opportunity will only be announced on the Agency website and grants.gov, without a Federal Register notice. Therefore, in future years, neither the funding opportunity nor reference to the funding opportunity in grants.gov will appear in the Federal Register. Please make note of this change in location of the funding announcement in your records.",
+        "keywords": [
+          "agriculture department",
+          "rural business-cooperative service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Agriculture Department",
+          "Rural Business-Cooperative Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879317+00:00"
+    },
+    {
+      "id": "federal-register-c255e1cb843f",
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06622/airworthiness-directives-airbus-helicopters",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Helicopters Model H160-B helicopters. This AD was prompted by a report of a leak on a gas cylinder within the emergency life raft system (ELRS) container assembly due to geometrical gaps between the burst disk and the valve body. This AD requires replacing the ELRS container assembly and prohibits installing an affected ELRS container assembly unless certain requirements are met. The FAA is issuing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879337+00:00"
+    },
+    {
+      "id": "federal-register-92edf057ab32",
+      "title": "Airworthiness Directives; Airbus Helicopters",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06621/airworthiness-directives-airbus-helicopters",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Helicopters Model AS355E, AS355F, AS355F1, AS355F2, AS355N, and AS355NP helicopters. This AD was prompted by a report of a structural crack in the vertical attachment spar of the tail fin. This AD requires repetitive inspections of certain vertical upper fin spars and, depending on the results, corrective action. This AD also prohibits installing certain upper fin assemblies. The FAA is issuing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879357+00:00"
+    },
+    {
+      "id": "federal-register-bb9b9497a486",
+      "title": "Initial Decision That Certain Frontal Driver Air Bag Inflators Manufactured by Jilin Province Detiannuo Safety Technology Co., Ltd. (DTN) Contain a Safety Defect",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06620/initial-decision-that-certain-frontal-driver-air-bag-inflators-manufactured-by-jilin-province",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "NHTSA has made an initial decision that certain air bag inflators manufactured by DTN contain a defect related to motor vehicle safety. Available information demonstrates that the inflators were imported into the United States by unknown importers (likely illegally). NHTSA is aware of twelve instances in which the inflators have ruptured in vehicles in the United States, resulting in ten fatalities and two severe injuries. Following this initial decision, NHTSA is required by statute to seek public comment and allow the manufacturer an opportunity to dispute the initial decision. After review of any comments or additional relevant information, should NHTSA makes a final determination that the subject inflators contain a defect related to motor vehicle safety, the sale of the inflators (whether separately or installed in an air bag module) in the United States would be illegal.",
+        "keywords": [
+          "transportation department",
+          "national highway traffic safety administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Transportation Department",
+          "National Highway Traffic Safety Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879381+00:00"
+    },
+    {
+      "id": "federal-register-cf17b23321f0",
+      "title": "Special Local Regulation; 4th of July Fireworks, East River and Upper New York Bay, Manhattan, Queens, and Brooklyn, NY",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06619/special-local-regulation-4th-of-july-fireworks-east-river-and-upper-new-york-bay-manhattan-queens",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "The Coast Guard is proposing to establish a temporary special local regulation (SLR) for certain navigable waters of the East River and Upper New York Bay in New York Harbor, NY. The SLR is needed to provide for the safety of life on these highly congested waterways immediately before, during, and after a 4th of July fireworks display. The rule would control vessel movement, prohibit entry into moving protection zones around transiting fireworks barges, establish exclusion zones near launch sites, and create spectator zones. The Coast Guard invites public comment on this proposed rulemaking.",
+        "keywords": [
+          "marine safety",
+          "navigation (water)",
+          "reporting and recordkeeping requirements",
+          "waterways",
+          "homeland security department",
+          "coast guard"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Homeland Security Department",
+          "Coast Guard"
+        ],
+        "topics": [
+          "Marine safety",
+          "Navigation (water)",
+          "Reporting and recordkeeping requirements",
+          "Waterways"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879403+00:00"
+    },
+    {
+      "id": "federal-register-a74e6ccff192",
+      "title": "Notice of Public Data Asset Release Under the Open, Public, Electronic, and Necessary (OPEN) Government Data Act",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06618/notice-of-public-data-asset-release-under-the-open-public-electronic-and-necessary-open-government",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "In accordance with Title II of the Foundations for Evidence- Based Policymaking Act of 2018, known as the Open, Public, Electronic, and Necessary (OPEN) Government Data Act, CMS announces the forthcoming release of public data assets in open, machine-readable formats under an open license. These data are intended to support public engagement in identifying and preventing fraud, waste, and abuse, and to promote transparency and accountability. CMS has taken steps to ensure that the release of these data appropriately furthers transparency objectives consistent with the protection of sensitive information.",
+        "keywords": [
+          "health and human services department",
+          "centers for medicare & medicaid services"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "Centers for Medicare & Medicaid Services"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879425+00:00"
+    },
+    {
+      "id": "federal-register-0b1e103a3c2d",
+      "title": "Medicare Program; Implementation of Prior Authorization for Select Services for the Wasteful and Inappropriate Services Reduction (WISeR) Model; Correction",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/06/2026-06617/medicare-program-implementation-of-prior-authorization-for-select-services-for-the-wasteful-and",
+        "published_date": "2026-04-06"
+      },
+      "content": {
+        "abstract": "This document corrects typographical and technical errors in the notice that appeared in the July 1, 2025, Federal Register titled \"Medicare Program; Implementation of Prior Authorization for Select Services for the Wasteful and Inappropriate Services Reduction (WISeR) Model\".",
+        "keywords": [
+          "health and human services department",
+          "centers for medicare & medicaid services"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "Centers for Medicare & Medicaid Services"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-07T04:24:01.879440+00:00"
+    }
+  ]
+}

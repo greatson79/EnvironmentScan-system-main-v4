@@ -1,0 +1,1496 @@
+{
+  "scan_metadata": {
+    "date": "2026-04-02",
+    "sources_configured": 1,
+    "sources_scanned": 1,
+    "sources_failed": 0,
+    "total_items": 50,
+    "execution_time": 16.62,
+    "mode": "multi_source",
+    "days_back": 7,
+    "timestamp": "2026-04-02T17:32:29.264660"
+  },
+  "items": [
+    {
+      "id": "federal-register-efeac359e3fc",
+      "title": "Fisheries of the Exclusive Economic Zone off Alaska; Gulf of Alaska; Final 2026 and 2027 Harvest Specifications for Groundfish; 2026 Rockfish Program Cooperative Allocations",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06472/fisheries-of-the-exclusive-economic-zone-off-alaska-gulf-of-alaska-final-2026-and-2027-harvest",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "NMFS is providing notification for the Rockfish Program cooperative allocations as described in the final rule that published on March 11, 2026, implementing the final 2026 and 2027 harvest specifications and prohibited species catch limits for the groundfish fishery of the Gulf of Alaska (GOA). These allocations are necessary to provide the Rockfish Program cooperative amounts for 2026, thus allowing commercial fishermen to maximize their economic opportunities in this fishery. This notification comports with the Fishery Management Plan for Groundfish of the GOA (FMP).",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263609+00:00"
+    },
+    {
+      "id": "federal-register-4e4a08c0d9ee",
+      "title": "Airworthiness Directives; The Boeing Company Airplanes",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06471/airworthiness-directives-the-boeing-company-airplanes",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain The Boeing Company Model 757-200 series airplanes. This proposed AD was prompted by a report of a crack found in the frame during a structural inspection of an airplane equipped with an Air Cargo Equipment (ACE) cargo loading system in the forward cargo bay. This proposed AD would require an inspection or maintenance records check of certain frames for any repair and applicable on-condition actions, and a repetitive high frequency eddy current (HFEC) surface inspection of certain frames for any crack and applicable on-condition actions. The FAA is proposing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263630+00:00"
+    },
+    {
+      "id": "federal-register-fb29784e9075",
+      "title": "Airworthiness Directives; Airbus Canada Limited Partnership (Type Certificate Previously Held by C Series Aircraft Limited Partnership (CSALP); Bombardier, Inc.) Airplanes",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06465/airworthiness-directives-airbus-canada-limited-partnership-type-certificate-previously-held-by-c",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The FAA is adopting a new airworthiness directive (AD) for all Airbus Canada Limited Partnership Model BD-500-1A10 and BD-500-1A11 airplanes. This AD was prompted by the discovery that the outflow valve (OFV) direct current (DC) motor could potentially be inoperative when used in high differential pressure conditions. This AD prohibits dispatching an airplane under certain master minimum equipment list (MMEL) items and prohibits dispatching if a certain crew alerting system (CAS) message is displayed. The FAA is issuing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263643+00:00"
+    },
+    {
+      "id": "federal-register-4ae430e6d91f",
+      "title": "Airworthiness Directives; Ontic Engineering and Manufacturing, Inc. Airplanes (Type Certificate Previously Held by M7 Aerospace LLC)",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06459/airworthiness-directives-ontic-engineering-and-manufacturing-inc-airplanes-type-certificate",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Ontic Engineering and Manufacturing, Inc. Model SA226-T, SA226-AT, SA226-T(B), SA226-TC, SA227-AC (C-26A), SA227-AT, SA227-BC (C-26A), SA227-CC, SA227-DC (C-26B), and SA-227-TT (300) airplanes. This proposed AD was prompted by reports of in-flight pitch trim actuator failures. This proposed AD would require repetitively inspecting the pitch trim actuator for cracked, missing, or compromised sealant, replacing and sealing the pitch trim actuator if cracked, missing, or compromised, repetitively measuring the pitch trim actuator travel time, and depending on the results of the measurements, replacing and sealing the pitch trim actuator. This proposed AD would prohibit the installation of certain pitch trim actuators unless the pitch trim actuator is sealed. The FAA is proposing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263655+00:00"
+    },
+    {
+      "id": "federal-register-13f7d7390c80",
+      "title": "Incorrect Terminology in Regulatory Text; Technical Amendments",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06454/incorrect-terminology-in-regulatory-text-technical-amendments",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "This final rule makes limited nomenclature changes to the Code of Federal Regulations (CFR) to conform with Executive Order (E.O.) 14168, Defending Women from Gender Ideology Extremism and Restoring Biological Truth to the Federal Government. This change will remove and replace the term \"gender\" with the term \"sex\" in the regulatory text of the Listing of Impairments that we use to evaluate disability claims under titles II and XVI of the Social Security Act (Act).",
+        "keywords": [
+          "administrative practice and procedure",
+          "blind",
+          "reporting and recordkeeping requirements",
+          "social security",
+          "social security administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Social Security Administration"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Blind",
+          "Reporting and recordkeeping requirements",
+          "Social security"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263669+00:00"
+    },
+    {
+      "id": "federal-register-d0998ac08966",
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Homer Harbor System Four Float Replacement Project",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06453/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-homer",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "NMFS has received a request from the City of Homer (Homer) for authorization to take marine mammals incidental to the Homer Harbor System Four Float Replacement Project in Homer, AK. Pursuant to the Marine Mammal Protection Act (MMPA), NMFS is requesting comments on its proposal to issue an incidental harassment authorization (IHA) to incidentally take marine mammals during the specified activities. NMFS is also requesting comments on a possible one-time, 1-year renewal that could be issued under certain circumstances and if all requirements are met, as described in Request for Public Comments at the end of this notice. NMFS will consider public comments prior to making any final decision on the issuance of the requested MMPA authorization and agency responses will be summarized in the final notice of our decision.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263691+00:00"
+    },
+    {
+      "id": "federal-register-a41d86f49153",
+      "title": "Agency Information Collection Activity: Verification of Eligibility for Burial in a National Cemetery",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06452/agency-information-collection-activity-verification-of-eligibility-for-burial-in-a-national-cemetery",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "National Cemetery Administration, Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved collection, and allow 60 days for public comment in response to the notice.",
+        "keywords": [
+          "veterans affairs department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Veterans Affairs Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263699+00:00"
+    },
+    {
+      "id": "federal-register-58040294ea86",
+      "title": "Agency Information Collection Activity: Presidential Memorial Certificate (PMC)",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06451/agency-information-collection-activity-presidential-memorial-certificate-pmc",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The National Cemetery Administration, Department of Veterans Affairs (VA), is announcing an opportunity for public comment on the proposed collection of certain information by the agency. Under the Paperwork Reduction Act (PRA) of 1995, Federal agencies are required to publish notice in the Federal Register concerning each proposed collection of information, including each proposed extension of a currently approved collection, and allow 60 days for public comment in response to the notice.",
+        "keywords": [
+          "veterans affairs department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Veterans Affairs Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263706+00:00"
+    },
+    {
+      "id": "federal-register-b27db74d872a",
+      "title": "Oleoresin Paprika From India: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Preliminary Negative Determination of Critical Circumstances, Postponement of Final Determination, and Extension of Provisional Measures",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06450/oleoresin-paprika-from-india-preliminary-affirmative-determination-of-sales-at-less-than-fair-value",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The U.S. Department of Commerce (Commerce) preliminarily determines that oleoresin paprika from India is being, or is likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2024, through March 31, 2025. Interested parties are invited to comment on this preliminary determination.",
+        "keywords": [
+          "commerce department",
+          "international trade administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "International Trade Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263714+00:00"
+    },
+    {
+      "id": "federal-register-5b25842db627",
+      "title": "Certain Corrosion-Resistant Steel Products from the Republic of Korea: Initiation of Circumvention Inquiry on the Antidumping and Countervailing Duty Orders",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06449/certain-corrosion-resistant-steel-products-from-the-republic-of-korea-initiation-of-circumvention",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "In response to requests from Nucor Corporation and Steel Dynamics, Inc. (collectively, the requesters), the U.S. Department of Commerce (Commerce) is initiating a country-wide circumvention inquiry to determine whether Certain Corrosion-Resistant Steel Products (CORE) from the Republic of Korea (Korea), completed in Thailand using components produced in Korea, are circumventing the antidumping (AD) and countervailing duty (CVD) orders on CORE from Korea.",
+        "keywords": [
+          "commerce department",
+          "international trade administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "International Trade Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263723+00:00"
+    },
+    {
+      "id": "federal-register-6add1d9875ab",
+      "title": "1,1,1,2-Tetrafluoroethane (R-134a) From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06448/1112-tetrafluoroethane-r-134a-from-the-peoples-republic-of-china-final-results-of-antidumping-duty",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The U.S. Department of Commerce (Commerce) determines that 1,1,1,2-Tetrafluoroethane (R-134a) from the People's Republic of China (China) was sold in the United States at less than normal value during the period of review (POR), April 1, 2023, through March 31, 2024.",
+        "keywords": [
+          "commerce department",
+          "international trade administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "International Trade Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263730+00:00"
+    },
+    {
+      "id": "federal-register-45eb4cfb6d1c",
+      "title": "Granular Polytetrafluoroethylene Resin From India: Amended Final Results of Antidumping Duty Administrative Review; 2023-2024",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06447/granular-polytetrafluoroethylene-resin-from-india-amended-final-results-of-antidumping-duty",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The U.S. Department of Commerce (Commerce) is amending the final results of the administrative review of the antidumping duty (AD) order on Granular Polytetrafluoroethylene Resin (Granular PTFE) from India to correct a ministerial error. The period of review (POR) is March 1, 2023, through February 29, 2024.",
+        "keywords": [
+          "commerce department",
+          "international trade administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "International Trade Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263736+00:00"
+    },
+    {
+      "id": "federal-register-953558245e02",
+      "title": "Notification of Citizens Coinage Advisory Committee Public Meeting-April 21, 2026",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06446/notification-of-citizens-coinage-advisory-committee-public-meeting-april-21-2026",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice by Treasury Department, United States Mint",
+        "keywords": [
+          "treasury department",
+          "united states mint"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Treasury Department",
+          "United States Mint"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.263742+00:00"
+    },
+    {
+      "id": "federal-register-e3e5e00c0033",
+      "title": "Administrative Law Judges; Withdrawal",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06445/administrative-law-judges-withdrawal",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Office of Personnel Management is clarifying its withdrawal of a proposed rule published on September 21, 2020. The notice of proposed rulemaking, among other things, proposed revising OPM's regulations governing the appointment and employment of administrative law judges (ALJs). OPM is withdrawing the proposed rule.",
+        "keywords": [
+          "personnel management office"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Personnel Management Office"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264095+00:00"
+    },
+    {
+      "id": "federal-register-dae026d38e7a",
+      "title": "Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common Sense Approach to Chemical Accident Prevention; Extension of Comment Period",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06444/accidental-release-prevention-requirements-risk-management-programs-under-the-clean-air-act-common",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The U.S. Environmental Protection Agency (EPA or Agency) is extending the comment period for the proposed rule entitled \"Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Common Sense Approach to Chemical Accident Prevention.\" EPA is extending the comment period until May 11, 2026 in response to stakeholders' requests for a comment period extension.",
+        "keywords": [
+          "environmental protection agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264105+00:00"
+    },
+    {
+      "id": "federal-register-27ac39ed6c4c",
+      "title": "Clean Air Act Operating Permit Program Revision; California; Monterey Bay Air Resources District",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06443/clean-air-act-operating-permit-program-revision-california-monterey-bay-air-resources-district",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Environmental Protection Agency (EPA) is proposing to approve revisions to the Monterey Bay Air Resources District's (MBARD or \"District\") Title V Operating Permits Program. These revisions remove emergency affirmative defense provisions; align the rule with current title V requirements by removing permitting requirements for greenhouse gases; create procedures for electronic public noticing of permits in addition to newspaper noticing; and update formatting to match the MBARD's current rule format. This action is being taken in accordance with federal regulations and the Clean Air Act (CAA or \"Act\"). We are taking comments on these proposed revisions and plan to follow with a final action.",
+        "keywords": [
+          "administrative practice and procedure",
+          "air pollution control",
+          "carbon monoxide",
+          "environmental protection",
+          "intergovernmental relations",
+          "lead",
+          "nitrogen dioxide",
+          "ozone",
+          "particulate matter",
+          "reporting and recordkeeping requirements"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Air pollution control",
+          "Carbon monoxide",
+          "Environmental protection",
+          "Intergovernmental relations",
+          "Lead",
+          "Nitrogen dioxide",
+          "Ozone",
+          "Particulate matter",
+          "Reporting and recordkeeping requirements",
+          "Sulfur oxides",
+          "Volatile organic compounds"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264119+00:00"
+    },
+    {
+      "id": "federal-register-4efc022f97ab",
+      "title": "Air Plan Approval; Wisconsin; Moderate Attainment Plan Elements for Wisconsin's 2015 Ozone Standard Areas",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06442/air-plan-approval-wisconsin-moderate-attainment-plan-elements-for-wisconsins-2015-ozone-standard",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Environmental Protection Agency (EPA) is proposing to approve portions of Wisconsin's 2015 ozone National Ambient Air Quality Standard (NAAQS or standard) Moderate nonattainment area State Implementation Plan (SIP) submission for the Wisconsin portion of the Chicago, Illinois-Indiana-Wisconsin area (Kenosha County), the Milwaukee, Wisconsin area, and the Sheboygan County, Wisconsin area. The elements of the Moderate SIP submission include the reasonable further progress (RFP) demonstration and the associated motor vehicle emissions budgets (Budgets) for 2023, the motor vehicle inspection and maintenance (I/M) program, and the nonattainment new source review (NNSR) program. The EPA is also proposing to approve the base year emissions inventory as satisfying previous Marginal area requirements for these areas. The EPA is proposing to approve these portions of the State's submission as a SIP revision pursuant to section 110 and part D of the Clean Air Act (CAA) and EPA's regulations. The EPA is also initiating the adequacy process for the 2023 Budgets.",
+        "keywords": [
+          "air pollution control",
+          "environmental protection",
+          "incorporation by reference",
+          "intergovernmental relations",
+          "nitrogen oxides",
+          "ozone",
+          "reporting and recordkeeping requirements",
+          "volatile organic compounds",
+          "environmental protection agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": [
+          "Air pollution control",
+          "Environmental protection",
+          "Incorporation by reference",
+          "Intergovernmental relations",
+          "Nitrogen oxides",
+          "Ozone",
+          "Reporting and recordkeeping requirements",
+          "Volatile organic compounds"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264133+00:00"
+    },
+    {
+      "id": "federal-register-2e5a8c91b4b2",
+      "title": "Finding of Failure To Attain the 2006 24-Hour PM2.5 Standards; California; San Joaquin Valley; Error Correction",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06441/finding-of-failure-to-attain-the-2006-24-hour-pm25-standards-california-san-joaquin-valley-error",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "In response to a court decision, the Environmental Protection Agency (EPA) is proposing to correct our July 22, 2020 final action erroneously granting a Clean Air Act (CAA or \"Act\") section 188(e) attainment date extension for the 2006 24-hour fine particulate matter (PM<INF>2.5</INF>) national ambient air quality standards (NAAQS or \"standards\") in the San Joaquin Valley from December 31, 2019, to December 31, 2024, and is now proposing to deny California's extension request. The EPA is also proposing to determine that the San Joaquin Valley nonattainment area failed to attain the 2006 24-hour PM<INF>2.5</INF> NAAQS by the December 31, 2019 unextended attainment date. This proposed determination is based upon monitored air quality data from 2017 through 2019. If the EPA finalizes this determination as proposed, the State of California will be required to submit a revision to the California state implementation plan (SIP) that, among other elements, provides for expeditious attainment of the 2006 24-hour PM<INF>2.5</INF> NAAQS and for a five percent annual reduction in emissions of direct PM<INF>2.5</INF> or a PM<INF>2.5</INF> plan precursor pollutant.",
+        "keywords": [
+          "air pollution control",
+          "environmental protection",
+          "incorporation by reference",
+          "intergovernmental relations",
+          "nitrogen oxides",
+          "particulate matter",
+          "reporting and recordkeeping requirements",
+          "sulfur oxides",
+          "volatile organic compounds",
+          "environmental protection agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": [
+          "Air pollution control",
+          "Environmental protection",
+          "Incorporation by reference",
+          "Intergovernmental relations",
+          "Nitrogen oxides",
+          "Particulate matter",
+          "Reporting and recordkeeping requirements",
+          "Sulfur oxides",
+          "Volatile organic compounds"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264147+00:00"
+    },
+    {
+      "id": "federal-register-9d9bd7fc4c62",
+      "title": "Magnuson-Stevens Act Provisions; General Provisions for Domestic Fisheries; Application for Exempted Fishing Permits",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06440/magnuson-stevens-act-provisions-general-provisions-for-domestic-fisheries-application-for-exempted",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Assistant Regional Administrator for Sustainable Fisheries, Greater Atlantic Region, NMFS, has made a preliminary determination that an Exempted Fishing Permit (EFP) to facilitate the use of fishing year (FY) 2026 and 2027 monkfish research set-aside (RSA) days-at-sea (DAS) warrants further consideration. The EFP would allow federally permitted fishing vessels to fish outside fishery regulations in support of exempted fishing activities proposed by Cape Cod Commercial Fishermen's Alliance (CCCFA). Regulations under the Magnuson-Stevens Fishery Conservation and Management Act require publication of this notification to provide interested parties the opportunity to comment on applications for proposed EFPs.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264157+00:00"
+    },
+    {
+      "id": "federal-register-eed92d93b9bd",
+      "title": "Magnuson-Stevens Act Provisions; General Provisions for Domestic Fisheries; Application for Exempted Fishing Permits",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06439/magnuson-stevens-act-provisions-general-provisions-for-domestic-fisheries-application-for-exempted",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Assistant Regional Administrator for Sustainable Fisheries, Greater Atlantic Region, NMFS, has made a preliminary determination that an Exempted Fishing Permit (EFP) to facilitate the use of fishing year (FY) 2026 and 2027 monkfish research set-aside (RSA) days-at-sea (DAS) warrants further consideration. The EFP would allow federally permitted fishing vessels to fish outside fishery regulations in support of exempted fishing activities proposed by the Cornell University Cooperative Extension Marine Program (CCE). Regulations under the Magnuson-Stevens Fishery Conservation and Management Act require publication of this notification to provide interested parties the opportunity to comment on applications for proposed EFPs.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264166+00:00"
+    },
+    {
+      "id": "federal-register-8d88d54790df",
+      "title": "Proposed Waivers and Extensions of the Project Period With Funding for the American Indian Vocational Rehabilitation Services Program and the American Indian Vocational Rehabilitation Training and Technical Assistance Center",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06438/proposed-waivers-and-extensions-of-the-project-period-with-funding-for-the-american-indian",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Department of Education proposes to waive the requirements in the Education Department General Administrative Regulations that generally prohibit project periods exceeding five years and project period extensions involving the obligation of additional Federal funds. The proposed waivers and extensions would enable 43 American Indian Vocational Rehabilitation Services (AIVRS) projects under Assistance Listing Number (ALN) 84.250N and one American Indian Vocational Rehabilitation Training and Technical Assistance Center (AIVRTTAC) under ALN 84.250Z, currently in their fifth year, to receive funding for an additional period, not beyond September 30, 2027.",
+        "keywords": [
+          "education department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Education Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264176+00:00"
+    },
+    {
+      "id": "federal-register-ff9bbbe28ad3",
+      "title": "Proposed CERCLA Administrative Settlement Agreement and Order on Consent for the Baghurst Drive Superfund Site, Upper Salford Township, Montgomery County, Pennsylvania",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06437/proposed-cercla-administrative-settlement-agreement-and-order-on-consent-for-the-baghurst-drive",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "In accordance with section 122(g) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (CERCLA), notice is hereby given by the U.S. Environmental Protection Agency (EPA), Region 3, of a proposed settlement agreement (Settlement) pursuant to CERCLA with Anita J. Miller (Settling Party) relating to the Baghurst Drive Superfund Site (Site), located in Upper Salford Township, Montgomery County, Pennsylvania.",
+        "keywords": [
+          "environmental protection agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264183+00:00"
+    },
+    {
+      "id": "federal-register-165640bc913b",
+      "title": "Title: Competition Announcement; Parent Information and Training Program",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06436/title-competition-announcement-parent-information-and-training-program",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Department of Education (ED) announces the opportunity to apply for competitive grants for the Fiscal Year (FY) 2026 for the Parent Information and Training Program, Assistance Listing Number (ALN) 84.235F.",
+        "keywords": [
+          "education department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Education Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264189+00:00"
+    },
+    {
+      "id": "federal-register-19c5f0909c94",
+      "title": "Current List of HHS-Certified Laboratories and Instrumented Initial Testing Facilities Which Meet Minimum Standards To Engage in Urine and Oral Fluid Drug Testing for Federal Agencies",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06435/current-list-of-hhs-certified-laboratories-and-instrumented-initial-testing-facilities-which-meet",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Department of Health and Human Services (HHS) provides notice of the laboratories and Instrumented Initial Testing Facilities (IITFs) currently certified to meet the standards of the Mandatory Guidelines for Federal Workplace Drug Testing Programs (Mandatory Guidelines) using Urine and the laboratories currently certified to meet the standards of the Mandatory Guidelines using Oral Fluid.",
+        "keywords": [
+          "health and human services department",
+          "substance abuse and mental health services administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "Substance Abuse and Mental Health Services Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264196+00:00"
+    },
+    {
+      "id": "federal-register-0854833b7b69",
+      "title": "Reversal of Land Acquisition; Koi Nation of Northern California, Shiloh Site, Sonoma County, California",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06434/reversal-of-land-acquisition-koi-nation-of-northern-california-shiloh-site-sonoma-county-california",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "On September 30, 2025, the United States District Court for the District of Northern California, declared the Department of the Interior's (Department) January 13, 2025, decision to acquire in trust 68.60 acres, more or less, of land known as the Shiloh Parcel in Sonoma County, California, for the Koi Nation of Northern California for gaming and other purposes, invalid and vacated the subsequent trust land acquisition announced in the Federal Register on January 17, 2025, 90 FR 5980. FINAL JUDGMENT, ECF No. 155, Federated Indians of Graton Rancheria, v. United States Department of the Interior, et al. No. 3:24-cv-8582 (N.D. Cal 2025). Consistent with that order, the Department is removing the 68.60 acres, more or less, of land known as the Shiloh Parcel in Sonoma County, California, from trust status and reconveying all right, title and interest in the property back to Sonoma Rose LLC., in fee simple.",
+        "keywords": [
+          "interior department",
+          "indian affairs bureau"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "Indian Affairs Bureau"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264206+00:00"
+    },
+    {
+      "id": "federal-register-116b1334cf6a",
+      "title": "Proposed CERCLA Administrative Cost Recovery Settlement: Price-Driscoll Site, Waterford, Connecticut",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06433/proposed-cercla-administrative-cost-recovery-settlement-price-driscoll-site-waterford-connecticut",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice is hereby given of a proposed settlement regarding the Price-Driscoll Site, located in Waterford, New London County, Connecticut, with the Settling Party, Barth-Colburn Realty Company. The proposed settlement requires the Settling Party to pay EPA $346,567 to resolve the matter at the Price-Driscoll Site, where EPA has incurred past response costs of approximately $534,717. In exchange, EPA will provide the Settling Party with a covenant not to sue or take administrative action for performance of removal work or recovery of response costs related to the Price-Driscoll Site. The settlement has been approved by the Environmental and Natural Resources Division of the United States Department of Justice pursuant to the authority of the Attorney General of the United States to compromise and settle claims of the United States.",
+        "keywords": [
+          "environmental protection agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Environmental Protection Agency"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264216+00:00"
+    },
+    {
+      "id": "federal-register-2e9d3233d6a4",
+      "title": "Erie Boulevard Hydropower L.P.; Notice of Application for Non-Capacity Amendment of License Accepted for Filing and Soliciting Comments, Motions To Intervene, and Protests",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06432/erie-boulevard-hydropower-lp-notice-of-application-for-non-capacity-amendment-of-license-accepted",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264223+00:00"
+    },
+    {
+      "id": "federal-register-bdcd741105e3",
+      "title": "Village of Morrisville, Vermont; Notice of Meeting To Discuss Settlement Agreement",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06431/village-of-morrisville-vermont-notice-of-meeting-to-discuss-settlement-agreement",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264230+00:00"
+    },
+    {
+      "id": "federal-register-e460769c4be2",
+      "title": "Boott Hydropower, LLC; Notice of Revised Procedural Schedule for Processing of Relicense Application",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06430/boott-hydropower-llc-notice-of-revised-procedural-schedule-for-processing-of-relicense-application",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264237+00:00"
+    },
+    {
+      "id": "federal-register-979b6f40cbef",
+      "title": "Center for Scientific Review; Notice of Closed Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06429/center-for-scientific-review-notice-of-closed-meetings",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice by Health and Human Services Department, National Institutes of Health",
+        "keywords": [
+          "health and human services department",
+          "national institutes of health"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "National Institutes of Health"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264243+00:00"
+    },
+    {
+      "id": "federal-register-68c958904a06",
+      "title": "Privacy Act of 1974; System of Records",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06428/privacy-act-of-1974-system-of-records",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "In accordance with the Privacy Act of 1974, as amended, the Federal Deposit Insurance Corporation (FDIC) is modifying an existing system of records titled FDIC-005, \"Consumer Complaint and Inquiry Records.\" This system of records supports the FDIC's regulatory and supervisory functions. It permits the FDIC to receive, investigate, and respond to complaints and inquiries from individuals concerning the activities or practices of the FDIC; FDIC-insured depository institutions; and persons/entities engaged in misuses of the FDIC's name or logo or misrepresentations about deposit insurance. The system helps the FDIC and other FDIC stakeholders to scope examinations and take appropriate supervisory actions. The FDIC is updating this system of records to rename it as FDIC-005, \"Consumer Complaint and Public Inquiry Records,\" to modify several sections of this notice, and to seek public comment on four proposed routine uses. Additionally, this notice includes non-substantive changes to simplify the formatting and text of the previously published notice and improve consistency across FDIC system of records notices.",
+        "keywords": [
+          "federal deposit insurance corporation"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Deposit Insurance Corporation"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264254+00:00"
+    },
+    {
+      "id": "federal-register-9d4132cc9b5b",
+      "title": "Mid-Atlantic Fishery Management Council (MAFMC); Public Meeting",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06427/mid-atlantic-fishery-management-council-mafmc-public-meeting",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Mid-Atlantic Fishery Management Council's Tilefish Advisory Panel will hold a public meeting.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264260+00:00"
+    },
+    {
+      "id": "federal-register-f34be970e34e",
+      "title": "Magnuson-Stevens Act Provisions; General Provisions for Domestic Fisheries; Application for Exempted Fishing Permits",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06426/magnuson-stevens-act-provisions-general-provisions-for-domestic-fisheries-application-for-exempted",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Assistant Regional Administrator for Sustainable Fisheries, Greater Atlantic Region, NMFS, has made a preliminary determination that an Exempted Fishing Permit (EFP) application contains all of the required information and warrants further consideration. The EFP would allow federally permitted fishing vessels to fish outside fishery regulations in support of exempted fishing activities proposed by the Commercial Fisheries Research Foundation. Regulations under the Magnuson-Stevens Fishery Conservation and Management Act require publication of this notification to provide interested parties the opportunity to comment on applications for proposed EFPs.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264268+00:00"
+    },
+    {
+      "id": "federal-register-858478901cdd",
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Reallocation of Pacific Cod in the Bering Sea and Aleutian Islands Management Area",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06425/fisheries-of-the-exclusive-economic-zone-off-alaska-reallocation-of-pacific-cod-in-the-bering-sea",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "NMFS is reallocating the projected unused amount of Pacific cod total allowable catch (TAC) from vessels using jig gear to catcher vessels less than 60 feet (18.3 meters (m)) length overall (LOA) using hook-and-line or pot gear in the Bering Sea and Aleutian Islands (BSAI) management area. This action is necessary to allow the A season allowance of the 2026 TAC of Pacific cod to be harvested.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264276+00:00"
+    },
+    {
+      "id": "federal-register-d3822ad9ae5f",
+      "title": "Consent To Make Inquiries and Release of Information and Records",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06424/consent-to-make-inquiries-and-release-of-information-and-records",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "NARA is proposing to request that the Office of Management and Budget (OMB) renew approval of a form used by the Office of Government Information Services (OGIS): NA Form 10003, Consent to Make Inquiries and Release of Information and Records. Known as the \"FOIA Ombuds,\" OGIS, an office within NARA, provides mediation services to resolve disputes between agencies and persons making Freedom of Information Act (FOIA) requests, and reviews agency FOIA policies, procedures, and compliance, as part of its statutory mission. 5 U.S.C. 552(h). When customers contact OGIS seeking assistance with a particular FOIA request and/or appeal, OGIS may need to contact agencies for further information regarding that FOIA request and/or appeal in order to provide that assistance. The Privacy Act of 1974 requires prior written consent from an individual to permit federal agencies to share records and information related to FOIA requests and appeals, unless the agency has a published routine use that includes release to OGIS for that purpose. 5 U.S.C. 552a(b). OGIS uses NA Form 10003 to collect that written consent when necessary, because it cannot currently collect it via online submission. OGIS is hopeful that once it is able to add online submission technology to a future case management system, it will be able to collect intake information and consent forms online.",
+        "keywords": [
+          "national archives and records administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "National Archives and Records Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264289+00:00"
+    },
+    {
+      "id": "federal-register-58ab206d300e",
+      "title": "New Postal Products",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06423/new-postal-products",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+        "keywords": [
+          "postal regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Postal Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264295+00:00"
+    },
+    {
+      "id": "federal-register-2dcd26ad2f92",
+      "title": "Agency Information Collection Request. 60-Day Public Comment Request",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06422/agency-information-collection-request-60-day-public-comment-request",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "In compliance with the requirement of the Paperwork Reduction Act of 1995, the Office of the Secretary (OS), Department of Health and Human Services, is publishing the following summary of a proposed collection for public comment.",
+        "keywords": [
+          "health and human services department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264300+00:00"
+    },
+    {
+      "id": "federal-register-9654f63ee338",
+      "title": "Reef Fish Fishery of the Gulf of America; 2026 Red Snapper Recreational For-Hire Fishing Season in the Gulf of America",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06421/reef-fish-fishery-of-the-gulf-of-america-2026-red-snapper-recreational-for-hire-fishing-season-in",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "NMFS announces the 2026 recreational fishing season for the Federal charter vessel/headboat (for-hire) component for red snapper in the exclusive economic zone (EEZ) of the Gulf of America (Gulf) through this temporary rule. The red snapper recreational for-hire component in the Gulf EEZ opens on June 1, 2026, and will close at 12:01 a.m., local time, on October 26, 2026. This closure is necessary to prevent the Federal for-hire component from exceeding its quota and to prevent overfishing of the Gulf red snapper resource.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264308+00:00"
+    },
+    {
+      "id": "federal-register-cf04d60a2cb9",
+      "title": "Fresh Tomatoes From Mexico: Extension of Deadline To Certify",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06420/fresh-tomatoes-from-mexico-extension-of-deadline-to-certify",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The U.S. Department of Commerce (Commerce) published notice in the Federal Register of February 18, 2026, in which Commerce announced the final clarification of the scope of the antidumping duty order on fresh tomatoes from Mexico. This notice extends the deadline for importers that import fresh tomatoes for processing on or after February 18, 2026, and before April 15, 2026, to fulfill the certification requirements applicable to tomatoes entered for processing.",
+        "keywords": [
+          "commerce department",
+          "international trade administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "International Trade Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264316+00:00"
+    },
+    {
+      "id": "federal-register-c257a10c9ff5",
+      "title": "Board of Overseers of the Malcolm Baldrige National Quality Award",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06419/board-of-overseers-of-the-malcolm-baldrige-national-quality-award",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Board of Overseers of the Malcolm Baldrige National Quality Award (\"Board of Overseers\" or \"Board\") will meet in open session on Thursday, June 11, 2026, from 11:00 a.m. to 4:00 p.m. Eastern Time. The purpose of this meeting is for the Board of Overseers to review and discuss the work of the Baldrige Performance Excellence Program, to implement improvements to the Malcom Baldrige National Quality Award (\"Award\"), and to provide recommendations to the Director of the National Institute of Standards and Technology (NIST) as the Board deems necessary. The agenda will include the Baldrige Program Update, Baldrige Foundation Update, Ethics Review, Alliance for Performance Excellence Update, Communities of Excellence Update, and New Business/Public Comment. Details of the agenda are noted in the SUPPLEMENTARY INFORMATION section of this notice.",
+        "keywords": [
+          "commerce department",
+          "national institute of standards and technology"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Institute of Standards and Technology"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264326+00:00"
+    },
+    {
+      "id": "federal-register-94cbc9d7ffce",
+      "title": "Antidumping or Countervailing Duty Order, Finding, or Suspended Investigation; Opportunity To Request Administrative Review and Join Annual Inquiry Service List",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06418/antidumping-or-countervailing-duty-order-finding-or-suspended-investigation-opportunity-to-request",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice by Commerce Department, International Trade Administration",
+        "keywords": [
+          "commerce department",
+          "international trade administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "International Trade Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264331+00:00"
+    },
+    {
+      "id": "federal-register-b30657d64789",
+      "title": "Agency Information Collection Activities; Renewable Energy and Alternate Uses of Existing Facilities on the Outer Continental Shelf",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06417/agency-information-collection-activities-renewable-energy-and-alternate-uses-of-existing-facilities",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Bureau of Safety and Environmental Enforcement (BSEE) proposes to renew an information collection.",
+        "keywords": [
+          "interior department",
+          "safety and environmental enforcement bureau"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "Safety and Environmental Enforcement Bureau"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264338+00:00"
+    },
+    {
+      "id": "federal-register-67cd16704373",
+      "title": "Voluntary Service National Advisory Committee, Notice of Meeting",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06416/voluntary-service-national-advisory-committee-notice-of-meeting",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice by Veterans Affairs Department",
+        "keywords": [
+          "veterans affairs department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Veterans Affairs Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264343+00:00"
+    },
+    {
+      "id": "federal-register-e453c93e36f7",
+      "title": "Notice Debarment; Federal E-Rate Program",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06415/notice-debarment-federal-e-rate-program",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Enforcement Bureau (the \"Bureau\") debars Aron Melber from the federal schools and libraries universal service support mechanism (E-Rate program) and all federal universal service support mechanisms for three years.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264348+00:00"
+    },
+    {
+      "id": "federal-register-168d4dece027",
+      "title": "NRC Reviews of Reactor Designs Previously Authorized by U.S. Department of Energy or Department of War",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06414/nrc-reviews-of-reactor-designs-previously-authorized-by-us-department-of-energy-or-department-of-war",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The U.S. Nuclear Regulatory Commission (NRC) is proposing to revise its regulations to facilitate direct leveraging of prior U.S. Department of Energy or Department of War authorizations of demonstration reactors into the NRC's licensing reviews of commercial reactor facility applications that reference those designs. This rulemaking would improve NRC licensing review efficiency, where applicable, by explicitly establishing by regulation an additional means for reactor applicants to demonstrate the safety functions of their reactor designs, and thus, would contribute to the safe and secure use and deployment of civilian nuclear energy technologies.",
+        "keywords": [
+          "administrative practice and procedure",
+          "antitrust",
+          "classified information",
+          "education",
+          "fees",
+          "fire prevention",
+          "intergovernmental relations",
+          "nuclear power plants and reactors",
+          "penalties",
+          "radiation protection"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Nuclear Regulatory Commission"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Antitrust",
+          "Classified information",
+          "Education",
+          "Fees",
+          "Fire prevention",
+          "Intergovernmental relations",
+          "Nuclear power plants and reactors",
+          "Penalties",
+          "Radiation protection",
+          "Reporting and recordkeeping requirements",
+          "Whistleblowing"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264359+00:00"
+    },
+    {
+      "id": "federal-register-3fda7f6e335b",
+      "title": "Revised Non-Foreign Overseas Per Diem Rates; Correction",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06413/revised-non-foreign-overseas-per-diem-rates-correction",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "On Tuesday, March 31, 2026, the DoD published a notice titled Revised Non-foreign Overseas Per Diem Rates. Subsequent to publication in the Federal Register, the DoD realized that the dates in the table next to the Puerto Rico locations should be 04/01/2026 but incorrectly published as 03/01/2026. This correction reprints the revised table in its entirety.",
+        "keywords": [
+          "defense department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Defense Department",
+          ""
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264366+00:00"
+    },
+    {
+      "id": "federal-register-2fa1980c2b7b",
+      "title": "Meeting of the National Organic Standards Board",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06412/meeting-of-the-national-organic-standards-board",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "In accordance with the Federal Advisory Committee Act, as amended, the Agricultural Marketing Service (AMS), U.S. Department of Agriculture (USDA), is announcing a meeting of the National Organic Standards Board (Board). The Board assists USDA in the development of standards for substances to be used in organic production and advises the Secretary of Agriculture on any other aspects of the implementation of the Organic Foods Production Act (OFPA).",
+        "keywords": [
+          "agriculture department",
+          "agricultural marketing service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Agriculture Department",
+          "Agricultural Marketing Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264373+00:00"
+    },
+    {
+      "id": "federal-register-c1ec516aae49",
+      "title": "Quarterly Status Report of Water Service, Repayment, and Other Water-Related Contract Actions",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06411/quarterly-status-report-of-water-service-repayment-and-other-water-related-contract-actions",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "Notice is hereby given of contractual actions that have been proposed to the Bureau of Reclamation (Reclamation) and are new, discontinued, or completed since the last publication of this notice. This notice informs the public about proposed contractual actions for capital recovery and management of project resources and facilities consistent with section 9(f) of the Reclamation Project Act of 1939.",
+        "keywords": [
+          "interior department",
+          "reclamation bureau"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "Reclamation Bureau"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264380+00:00"
+    },
+    {
+      "id": "federal-register-59b7f239044e",
+      "title": "Notice Debarment; Federal E-Rate Program",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06410/notice-debarment-federal-e-rate-program",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "The Enforcement Bureau (the \"Bureau\") debars Sholem Steinberg from the federal schools and libraries universal service support mechanism (E-Rate program) and all federal universal service support mechanisms for three years.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264386+00:00"
+    },
+    {
+      "id": "federal-register-7309247a5277",
+      "title": "Information Collection Request; Direct Loan Servicing-Regular",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/04/02/2026-06409/information-collection-request-direct-loan-servicing-regular",
+        "published_date": "2026-04-02"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act (PRA) requirement, the Farm Service Agency (FSA) is requesting comments from all interested individuals and organizations on a revision of a currently approved information collection request, Direct Loan Servicing--Regular. In the Direct Loan Servicing--Regular, the information is used to determine borrower compliance with loan agreements, assist the borrower in achieving business goals, and regular servicing of the loan account such as graduation, subordination, partial release, use of proceeds, and consent.",
+        "keywords": [
+          "agriculture department",
+          "farm service agency"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Agriculture Department",
+          "Farm Service Agency"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-04-02T08:32:29.264394+00:00"
+    }
+  ]
+}

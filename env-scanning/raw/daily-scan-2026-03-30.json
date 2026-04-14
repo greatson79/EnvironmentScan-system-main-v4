@@ -1,0 +1,1449 @@
+{
+  "scan_metadata": {
+    "date": "2026-03-30",
+    "sources_configured": 1,
+    "sources_scanned": 1,
+    "sources_failed": 0,
+    "total_items": 50,
+    "execution_time": 22.35,
+    "mode": "multi_source",
+    "days_back": 7,
+    "timestamp": "2026-03-30T10:18:48.921278"
+  },
+  "items": [
+    {
+      "id": "federal-register-2c92b9abc406",
+      "title": "Streamlining the Census Bureau's Foreign Trade Regulations",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06133/streamlining-the-census-bureaus-foreign-trade-regulations",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "By this rule, the Census Bureau is amending its foreign trade regulations by consolidating and streamlining certain cross-references to, and restatements of, other regulations and authorities. This action is intended to simplify and streamline the foreign trade regulations, and thereby promote efficiency, without affecting any substantive obligations or entitlements.",
+        "keywords": [
+          "economic statistics",
+          "exports",
+          "foreign trade",
+          "reporting and recordkeeping requirements",
+          "commerce department",
+          "census bureau"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Commerce Department",
+          "Census Bureau"
+        ],
+        "topics": [
+          "Economic statistics",
+          "Exports",
+          "Foreign trade",
+          "Reporting and recordkeeping requirements"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918696+00:00"
+    },
+    {
+      "id": "federal-register-377be9727ed6",
+      "title": "Sunshine Act Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06132/sunshine-act-meetings",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice by Nuclear Regulatory Commission",
+        "keywords": [
+          "nuclear regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Nuclear Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918745+00:00"
+    },
+    {
+      "id": "federal-register-4f93e8181f9f",
+      "title": "Certain In-Vehicle Infotainment Systems, Components Thereof, and Products Containing the Same; Notice of Institution of Investigation",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06126/certain-in-vehicle-infotainment-systems-components-thereof-and-products-containing-the-same-notice",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on February 24, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of Zync Inc. of San Francisco, California. A supplement to the complaint was filed on March 3, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation and the sale of certain in- vehicle infotainment systems, components thereof, and products containing the same by reason of misappropriation of trade secrets and tortious interference with prospective economic advantage, the threat or effect of which is to destroy or substantially injure an industry in the United States as required by the applicable Federal Statute. The complainant requests that the Commission institute an investigation and, after the investigation, issue a limited exclusion order and cease and desist orders.",
+        "keywords": [
+          "international trade commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "International Trade Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918777+00:00"
+    },
+    {
+      "id": "federal-register-6081941f0520",
+      "title": "Certain Electrolyte Containing Beverages and Labeling and Packaging Thereof (II); Notice of a Commission Determination Finding a Violation of Section 337; Issuance of a General Exclusion Order; Termination of the Investigation",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06125/certain-electrolyte-containing-beverages-and-labeling-and-packaging-thereof-ii-notice-of-a",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice is hereby given that the U.S. International Trade Commission (\"Commission\") has determined to affirm, with supplemental findings and modified reasoning, an initial determination (\"ID\") (Order No. 18) of the presiding administrative law judge (\"ALJ\") granting a motion for summary determination of violation. The Commission has determined to issue a general exclusion order (\"GEO\") prohibiting the importation of electrolyte containing beverages and labeling and packaging thereof that infringe one or more of U.S. Trademark Registration No. 4,222,726; U.S. Trademark Registration No. 4,833,885; U.S. Trademark Registration No. 4,717,350; and U.S. Trademark Registration No. 4,717,232 (collectively, the \"Asserted Trademarks\"). The investigation is terminated.",
+        "keywords": [
+          "international trade commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "International Trade Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918808+00:00"
+    },
+    {
+      "id": "federal-register-0a696d17c079",
+      "title": "Sunshine Act Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06124/sunshine-act-meetings",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice by Farm Credit Administration",
+        "keywords": [
+          "farm credit administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Farm Credit Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918822+00:00"
+    },
+    {
+      "id": "federal-register-f32b0b1010fd",
+      "title": "Board of Directors Meeting",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06123/board-of-directors-meeting",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice of the forthcoming regular meeting of the Board of Directors of the Farm Credit System Insurance Corporation (FCSIC), is hereby given in accordance with the provisions of the Bylaws of the FCSIC.",
+        "keywords": [
+          "farm credit system insurance corporation"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Farm Credit System Insurance Corporation"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918838+00:00"
+    },
+    {
+      "id": "federal-register-ab35508000a5",
+      "title": "Notice of Intent To Request Revision and Extension of a Currently Approved Information Collection",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06122/notice-of-intent-to-request-revision-and-extension-of-a-currently-approved-information-collection",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the intent of the National Agricultural Statistics Service (NASS) to request revision and extension of a currently approved information collection, the Livestock Slaughter Survey. Revision to burden hours may be needed due to changes in the size of the target population, sampling design, and/or questionnaire length.",
+        "keywords": [
+          "agriculture department",
+          "national agricultural statistics service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Agriculture Department",
+          "National Agricultural Statistics Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918858+00:00"
+    },
+    {
+      "id": "federal-register-e3cc446b4d28",
+      "title": "Certain TOPCon Solar Cells, Modules, Panels, Components Thereof, and Products Containing Same; Institution of Investigation",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06121/certain-topcon-solar-cells-modules-panels-components-thereof-and-products-containing-same",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on February 24, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of First Solar, Inc. of Phoenix, Arizona. The complaint was supplemented on March 10, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States, the sale for importation, and the sale within the United States after importation of certain TOPCon solar cells, modules, panels, components thereof, and products containing same by reason of the infringement of certain claims of U.S. Patent No. 9,130,074 (\"the '074 patent\"). The complaint, as supplemented, further alleges that an industry in the United States exists or is in the process of being established as required by the applicable Federal Statute. The complainant requests that the Commission institute an investigation and, after the investigation, issue a general exclusion order, or in the alternative a limited exclusion order, and cease and desist orders.",
+        "keywords": [
+          "international trade commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "International Trade Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918886+00:00"
+    },
+    {
+      "id": "federal-register-fc30ce280357",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; Technology Letter of Explanation",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06120/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Department of Commerce, in accordance with the Paperwork Reduction Act of 1995 (PRA), invites the general public and other Federal agencies to comment on proposed, and continuing information collections, which helps us assess the impact of our information collection requirements and minimize the public's reporting burden. The purpose of this notice is to allow for 60 days of public comment preceding submission of the collection to OMB.",
+        "keywords": [
+          "commerce department",
+          "industry and security bureau"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "Industry and Security Bureau"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918906+00:00"
+    },
+    {
+      "id": "federal-register-725a341ad269",
+      "title": "Submission for OMB Review; Comments Request",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06119/submission-for-omb-review-comments-request",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Under the provisions of the Paperwork Reduction Act, agencies are required to publish a Notice in the Federal Register notifying the public that the agency is renewing an existing information collection for OMB review and approval and requests public review and comment on the submission. The agencies received no comments in response to the sixty (60) day notice. The purpose of this notice is to allow an additional thirty (30) days for public comments to be submitted. Comments are being solicited on the need for the information; the accuracy of the burden estimate; the quality, practical utility, and clarity of the information to be collected; and ways to minimize reporting the burden, including automated collected techniques and uses of other forms of technology.",
+        "keywords": [
+          "u.s. international development finance corporation"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "U.S. International Development Finance Corporation"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918929+00:00"
+    },
+    {
+      "id": "federal-register-a256d9825751",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; Reinstatement, With Change, of a Previously Approved Collection for Which Approval Has Expired: Census of Prosecutor Offices",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06118/agency-information-collection-activities-proposed-ecollection-ecomments-requested-reinstatement-with",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Department of Justice (DOJ), Bureau of Justice Statistics, will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995.",
+        "keywords": [
+          "justice department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Justice Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918947+00:00"
+    },
+    {
+      "id": "federal-register-1d0698d16f0c",
+      "title": "Application for Final Commitment for a Long-Term Loan or Financial Guarantee in Excess of $100 Million: AP768324",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06117/application-for-final-commitment-for-a-long-term-loan-or-financial-guarantee-in-excess-of-100",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "This Notice is to inform the public that the Export-Import Bank of the United States (\"EXIM\") has received an application for final commitment for a long-term loan or financial guarantee in excess of $100 million. Consistent with EXIM's mandate to strengthen U.S. economic competitiveness and national security, the proposed transaction supports the development of critical mineral resources essential to resilient domestic supply chains and advanced manufacturing. Comments received within the comment period specified below will be presented to the EXIM Board of Directors prior to final action on this Transaction.",
+        "keywords": [
+          "export-import bank"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Export-Import Bank"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918968+00:00"
+    },
+    {
+      "id": "federal-register-0d26f18a2047",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06116/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the proper performance of the functions of the Commission, including whether the information shall have practical utility; the accuracy of the Commission's burden estimate; ways to enhance the quality, utility, and clarity of the information collected; ways to minimize the burden of the collection of information on the respondents, including the use of automated collection burden on small business concerns with fewer than 25 employees. The FCC may not conduct or sponsor a collection of information unless it displays a currently valid OMB control number. No person shall be subject to any penalty for failing to comply with a collection of information subject to the PRA that does not display a valid OMB control number.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.918997+00:00"
+    },
+    {
+      "id": "federal-register-a39ea161c4ce",
+      "title": "Information Collection Being Submitted for Review and Approval to Office of Management and Budget",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06115/information-collection-being-submitted-for-review-and-approval-to-office-of-management-and-budget",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "As part of its continuing effort to reduce paperwork burdens, as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal Agencies to take this opportunity to comment on the following information collection. Pursuant to the Small Business Paperwork Relief Act of 2002, the FCC seeks specific comment on how it might further reduce the information collection burden for small business concerns with fewer than 25 employees. The Commission may not conduct or sponsor a collection of information unless it displays a currently valid Office of Management and Budget (OMB) control number. No person shall be subject to any penalty for failing to comply with a collection of information subject to the PRA that does not display a valid OMB control number.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919021+00:00"
+    },
+    {
+      "id": "federal-register-e9fabd60ae07",
+      "title": "Authority To Require Supervision and Regulation of Certain Nonbank Financial Companies",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06114/authority-to-require-supervision-and-regulation-of-certain-nonbank-financial-companies",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "This proposed interpretive guidance, which would replace the Financial Stability Oversight Council's existing interpretive guidance on nonbank financial company determinations and its analytic framework for financial stability risks, describes the approach the Council intends to take in prioritizing its work to identify and address potential risks to U.S. financial stability using an activities-based approach, and enhancing the Council's analytical rigor and transparency.",
+        "keywords": [
+          "brokers",
+          "investments",
+          "securities",
+          "financial stability oversight council"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Financial Stability Oversight Council"
+        ],
+        "topics": [
+          "Brokers",
+          "Investments",
+          "Securities"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919041+00:00"
+    },
+    {
+      "id": "federal-register-ede2c66433e6",
+      "title": "Certain NAND and DRAM Memory Chips; Institution of Investigation",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06113/certain-nand-and-dram-memory-chips-institution-of-investigation",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice is hereby given that a complaint was filed with the U.S. International Trade Commission on February 17, 2026, under section 337 of the Tariff Act of 1930, as amended, on behalf of MonolithIC 3D Inc. of Allen, Texas. Supplements to the complaint were filed on February 25, 2026, and March 16, 2026. The complaint, as supplemented, alleges violations of section 337 based upon the importation into the United States, the sale for importation, and the sale within the United States after importation of certain NAND and DRAM memory chips by reason of the infringement of certain claims of U.S. Patent No. 12,035,531 (\"the '531 patent\"); U.S. Patent No. 12,125,737 (\"the '1- 737 patent\"); U.S. Patent No.12,243,765 (\"the '765 patent\"); U.S. Patent No. 11,342,214 (\"the '214 patent\"); U.S. Patent No. 11,476,181 (\"the '181 patent\"); U.S. Patent No. 11,594,473 (\"the '473 patent\"); U.S. Patent No. 11,862,503 (\"the '503 patent\"); and U.S. Patent No. 12,225,737 (\"the '2-737 patent\"). The complaint further alleges that an industry in the United States exists or is in the process of being established as required by the applicable Federal Statute. The complainant requests that the Commission institute an investigation and, after the investigation, issue a limited exclusion order and cease and desist orders.",
+        "keywords": [
+          "international trade commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "International Trade Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919069+00:00"
+    },
+    {
+      "id": "federal-register-d256be47e300",
+      "title": "Request for Comments on the Renewal of a Previously Approved Information Collection: Eligibility of US-Flag Vessels of 100 Feet or Greater in Registered Length To Obtain a Fishery Endorsement",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06110/request-for-comments-on-the-renewal-of-a-previously-approved-information-collection-eligibility-of",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "MARAD invites public comments on its intention to request Office of Management and Budget (OMB) approval to renew an information collection in accordance with the Paperwork Reduction Act of 1995. The proposed collection OMB 2133-0530 (Eligibility of US-flag Vessels of 100 Feet or Greater in Registered Length to Obtain a Fishery Endorsement), is necessary for MARAD to determine if a particular vessel is owned and controlled by United States citizens and is eligible to receive a fishery endorsement to its documentation. MARAD is required to publish this notice in the Federal Register to obtain comments from the public and affected agencies.",
+        "keywords": [
+          "transportation department",
+          "maritime administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Transportation Department",
+          "Maritime Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919092+00:00"
+    },
+    {
+      "id": "federal-register-e5743e4a832e",
+      "title": "Request for Comments on the Renewal of a Previously Approved Information Collection: Capital Construction Fund and Exhibits",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06109/request-for-comments-on-the-renewal-of-a-previously-approved-information-collection-capital",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "MARAD invites public comments on its intention to request Office of Management and Budget (OMB) approval to renew an information collection in accordance with the Paperwork Reduction Act of 1995. The proposed collection OMB 2133-0027 (Capital Construction Fund and Exhibits) is necessary for MARAD to determine an applicant's eligibility to enter a Capital Construction Fund (CCF) Agreement, and their compliance with the requirements of this program. Since the last renewal, there was a reduction in the total respondents, responses, and burden hours for this collection. MARAD is required to publish this notice in the Federal Register to obtain comments from the public and affected agencies.",
+        "keywords": [
+          "transportation department",
+          "maritime administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Transportation Department",
+          "Maritime Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919114+00:00"
+    },
+    {
+      "id": "federal-register-e6ae1fd6cb52",
+      "title": "Sunshine Act Meetings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06108/sunshine-act-meetings",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice by Unified Carrier Registration Plan",
+        "keywords": [
+          "unified carrier registration plan"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Unified Carrier Registration Plan"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919126+00:00"
+    },
+    {
+      "id": "federal-register-91c89b61467b",
+      "title": "Filing of Plats of Survey and Supplemental Plat; New Mexico; Oklahoma",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06107/filing-of-plats-of-survey-and-supplemental-plat-new-mexico-oklahoma",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The plats of survey and the supplemental plat of the following described lands are scheduled to be officially filed in the Bureau of Land Management (BLM) New Mexico State Office, Santa Fe, New Mexico. The surveys and plat announced in this notice are necessary for the management of these lands.",
+        "keywords": [
+          "interior department",
+          "land management bureau"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "Land Management Bureau"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919143+00:00"
+    },
+    {
+      "id": "federal-register-072942e975af",
+      "title": "Agency Information Collection Activities; Comment Request; Targeted Teacher Shortage Areas Data Collection",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06106/agency-information-collection-activities-comment-request-targeted-teacher-shortage-areas-data",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a reinstatement without change of a previously approved information collection request (ICR).",
+        "keywords": [
+          "education department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Education Department"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919158+00:00"
+    },
+    {
+      "id": "federal-register-f69671ce5f02",
+      "title": "Name of Information Collection: Software Catalog",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06105/name-of-information-collection-software-catalog",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "NASA, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to take this opportunity to comment on proposed and/or continuing information collections, as required by the Paperwork Reduction Act of 1995 (PRA).",
+        "keywords": [
+          "national aeronautics and space administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "National Aeronautics and Space Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919174+00:00"
+    },
+    {
+      "id": "federal-register-6efad9e01d6a",
+      "title": "Name of Information Collection: NASA Complaint of Discrimination Form 1355P",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06104/name-of-information-collection-nasa-complaint-of-discrimination-form-1355p",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "NASA, as part of its continuing effort to reduce paperwork and respondent burden, invites the general public and other Federal agencies to take this opportunity to comment on proposed and/or continuing information collections, as required by the Paperwork Reduction Act of 1995 (PRA).",
+        "keywords": [
+          "national aeronautics and space administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "National Aeronautics and Space Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919198+00:00"
+    },
+    {
+      "id": "federal-register-3175256d7a10",
+      "title": "Softwood Lumber Board Assessment Rate Clarification and Changes to Membership",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06103/softwood-lumber-board-assessment-rate-clarification-and-changes-to-membership",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "This proposed rule invites comments on changes to the Softwood Lumber Research, Promotion, Consumer Education and Industry Information Order (Order). These changes include clarifying the assessment rate for softwood lumber imported into the United States and revising the membership of the Softwood Lumber Board (Board or SLB).",
+        "keywords": [
+          "administrative practice and procedure",
+          "advertising",
+          "agricultural research",
+          "confidential business information",
+          "consumer protection",
+          "forests and forest products",
+          "inventions and patents",
+          "marketing agreements",
+          "reporting and recordkeeping requirements",
+          "agriculture department"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Agriculture Department",
+          "Agricultural Marketing Service"
+        ],
+        "topics": [
+          "Administrative practice and procedure",
+          "Advertising",
+          "Agricultural research",
+          "Confidential business information",
+          "Consumer protection",
+          "Forests and forest products",
+          "Inventions and patents",
+          "Marketing agreements",
+          "Reporting and recordkeeping requirements"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919233+00:00"
+    },
+    {
+      "id": "federal-register-5e1085b0832f",
+      "title": "Fisheries of the Northeastern United States; Mid-Atlantic Blueline Tilefish and Golden Tilefish Fisheries; 2026 Specifications",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06102/fisheries-of-the-northeastern-united-states-mid-atlantic-blueline-tilefish-and-golden-tilefish",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "In this action, NMFS proposes specifications for the 2026 fishing year for the golden tilefish and blueline tilefish fisheries north of the North Carolina/Virginia border. The proposed action is necessary to establish allowable harvest levels and other management measures to prevent overfishing while allowing optimum yield, consistent with the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act) and the Tilefish Fishery Management Plan (FMP).",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919254+00:00"
+    },
+    {
+      "id": "federal-register-1c33b6d45396",
+      "title": "Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06101/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice by Federal Reserve System",
+        "keywords": [
+          "federal reserve system"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Reserve System"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919267+00:00"
+    },
+    {
+      "id": "federal-register-cf141a205c55",
+      "title": "Agency Information Collection Activities: Comment Request",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06100/agency-information-collection-activities-comment-request",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act of 1995 (PRA), the Consumer Financial Protection Bureau (CFPB or Bureau) requests the Office of Management and Budget's (OMB's) reinstatement of an information collection titled \"Prohibition on Inclusion of Adverse Information in Consumer Reporting in Cases of Human Trafficking (Regulation V)\" approved under OMB Control Number 3170-0002.",
+        "keywords": [
+          "consumer financial protection bureau"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Consumer Financial Protection Bureau"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919285+00:00"
+    },
+    {
+      "id": "federal-register-27a06f645691",
+      "title": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Furie Operating Alaska, LLC Natural Gas Activities in Cook Inlet, Alaska",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06099/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to-furie",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "NMFS received a request from Furie Operating Alaska, LLC (Furie) for the renewal of their currently active incidental harassment authorization (IHA) to take marine mammals incidental to activities supporting natural gas production in Cook Inlet, Alaska. Furie's activities under the renewal IHA would be identical to a subset of those covered in the current IHA. Pursuant to the Marine Mammal Protection Act (MMPA), prior to issuing the current IHA, NMFS requested comments on two consecutive proposed IHAs (\"initial IHAs\") and the potential for a renewal IHA if certain requirements were satisfied. The renewal requirements have been satisfied, and NMFS is now providing an additional 15-day comment period to allow for any additional comments on the proposed renewal of the current IHA not previously submitted during the initial IHA 30-day comment period.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919318+00:00"
+    },
+    {
+      "id": "federal-register-2afa42ee939c",
+      "title": "Interest Rates",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06098/interest-rates",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice by Small Business Administration",
+        "keywords": [
+          "small business administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Small Business Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919330+00:00"
+    },
+    {
+      "id": "federal-register-3fa3f85f735c",
+      "title": "Algonquin Gas Transmission, LLC; Notice of Revised Schedule for Environmental Review of the Cape Cod Canal Pipeline Relocation Project",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06097/algonquin-gas-transmission-llc-notice-of-revised-schedule-for-environmental-review-of-the-cape-cod",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919345+00:00"
+    },
+    {
+      "id": "federal-register-fb6ace763c12",
+      "title": "Combined Notice of Filings",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06096/combined-notice-of-filings",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919358+00:00"
+    },
+    {
+      "id": "federal-register-2df1bca31c22",
+      "title": "Combined Notice of Filings #1",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06095/combined-notice-of-filings-1",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Notice by Energy Department, Federal Energy Regulatory Commission",
+        "keywords": [
+          "energy department",
+          "federal energy regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Energy Department",
+          "Federal Energy Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919372+00:00"
+    },
+    {
+      "id": "federal-register-205318e86e18",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; NPS Case and Outbreak Investigation Data Collections",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06094/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act of 1995, we, the National Park Service (NPS) are proposing to renew an information collection with revisions.",
+        "keywords": [
+          "interior department",
+          "national park service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "National Park Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919390+00:00"
+    },
+    {
+      "id": "federal-register-3a5c7e52a001",
+      "title": "Proposed Information Collection Activity; Adoption and Foster Care Analysis and Reporting System (AFCARS)",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06093/proposed-information-collection-activity-adoption-and-foster-care-analysis-and-reporting-system",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Administration for Children and Families (ACF) is requesting a revision of the Adoption and Foster Care Analysis and Reporting System (AFCARS) (Office of Management and Budget (OMB) #: 0970-0422, expiration June 30, 2026). Sixty-two data elements have been added to AFCARS, per a December 2024 final rule. This has increased the burden for reporting for state child welfare agencies only.",
+        "keywords": [
+          "health and human services department",
+          "children and families administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "Children and Families Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919409+00:00"
+    },
+    {
+      "id": "federal-register-b33e5e1f82da",
+      "title": "Proposed Information Collection Activity; National Child Abuse and Neglect Data System",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06092/proposed-information-collection-activity-national-child-abuse-and-neglect-data-system",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Administration for Children, Youth and Families in the U.S. Department of Health and Human Services (HHS) is requesting a three-year extension of the National Child Abuse and Neglect Data System (NCANDS) collection (OMB #0970-0424, expiration 07/31/2026). There are no changes requested to this data collection.",
+        "keywords": [
+          "health and human services department",
+          "children and families administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Health and Human Services Department",
+          "Children and Families Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.919426+00:00"
+    },
+    {
+      "id": "federal-register-e5d4d4757c9f",
+      "title": "Agency Information Collection Activities; Nomination of Properties for Listing in the National Register of Historic Places",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06091/agency-information-collection-activities-nomination-of-properties-for-listing-in-the-national",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": ": In accordance with the Paperwork Reduction Act of 1995, we, the National Park Service (NPS, we) are proposing to revise a currently approved information collection.",
+        "keywords": [
+          "interior department",
+          "national park service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "National Park Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920334+00:00"
+    },
+    {
+      "id": "federal-register-76c6cefedf07",
+      "title": "Submission to the Office of Management and Budget for Review and Approval; Using Web and Mobile-Based Apps During NPS Citizen Science Events",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06090/submission-to-the-office-of-management-and-budget-for-review-and-approval-using-web-and-mobile-based",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act of 1995, we, the National Park Service (NPS) are proposing to renew an information collection.",
+        "keywords": [
+          "interior department",
+          "national park service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "National Park Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920354+00:00"
+    },
+    {
+      "id": "federal-register-73ddbdd9f5d6",
+      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Reporting and Recordkeeping for Snow Coaches and Snowmobiles, Yellowstone National Park",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06089/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "In accordance with the Paperwork Reduction Act of 1995, we, the National Park Service (NPS) are proposing to renew an information collection without change.",
+        "keywords": [
+          "interior department",
+          "national park service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Interior Department",
+          "National Park Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920368+00:00"
+    },
+    {
+      "id": "federal-register-604db0a2b980",
+      "title": "Information Collection Being Reviewed by the Federal Communications Commission Under Delegated",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06087/information-collection-being-reviewed-by-the-federal-communications-commission-under-delegated",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collections. Comments are requested concerning: whether the proposed collection of information is necessary for the proper performance of the functions of the Commission, including whether the information shall have practical utility; the accuracy of the Commission's burden estimate; ways to enhance the quality, utility, and clarity of the information collected; ways to minimize the burden of the collection of information on the respondents, including the use of automated collection burden on small business concerns with fewer than 25 employees. The FCC may not conduct or sponsor a collection of information unless it displays a currently valid OMB control number. No person shall be subject to any penalty for failing to comply with a collection of information subject to the PRA that does not display a valid OMB control number.",
+        "keywords": [
+          "federal communications commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Federal Communications Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920392+00:00"
+    },
+    {
+      "id": "federal-register-5b4a3f33078e",
+      "title": "Amendment of Class D Airspace; Teterboro, NJ",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06086/amendment-of-class-d-airspace-teterboro-nj",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "This action updates the geographic coordinates for Teterboro Airport, Teterboro, NJ, in the Class D airspace legal description. This action does not change the airspace boundaries or operating requirements.",
+        "keywords": [
+          "airspace",
+          "incorporation by reference",
+          "navigation (air)",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Airspace",
+          "Incorporation by reference",
+          "Navigation (air)"
+        ]
+      },
+      "preliminary_category": "S",
+      "collected_at": "2026-03-30T01:18:48.920408+00:00"
+    },
+    {
+      "id": "federal-register-dceb858cd2b8",
+      "title": "Airworthiness Directives; Airbus SAS Airplanes",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06085/airworthiness-directives-airbus-sas-airplanes",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The FAA proposes to adopt a new airworthiness directive (AD) for certain Airbus SAS Model A350-941 airplanes. This proposed AD was prompted by a report of a missing main landing gear (MLG) brake rod center pin nut sub-assembly detected during an inspection. This proposed AD would require, depending on airplane configuration, inspection of the MLG brake rod center pin nut, lock ring, and end plate, inspection of the MLG brake rod center pin and nut, and applicable corrective actions. This proposed AD would also require additional work for certain airplanes. The FAA is proposing this AD to address the unsafe condition on these products.",
+        "keywords": [
+          "air transportation",
+          "aircraft",
+          "aviation safety",
+          "incorporation by reference",
+          "safety",
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Proposed Rule",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": [
+          "Air transportation",
+          "Aircraft",
+          "Aviation safety",
+          "Incorporation by reference",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920429+00:00"
+    },
+    {
+      "id": "federal-register-d22efb74a013",
+      "title": "New Postal Products",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06084/new-postal-products",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Commission is noticing a recent Postal Service filing for the Commission's consideration concerning a negotiated service agreement. This notice informs the public of the filing, invites public comment, and takes other administrative steps.",
+        "keywords": [
+          "postal regulatory commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Postal Regulatory Commission"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920442+00:00"
+    },
+    {
+      "id": "federal-register-6f938cc76172",
+      "title": "Notice of Intent To Designate as Abandoned Air Mods NW Supplemental Type Certificates",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06083/notice-of-intent-to-designate-as-abandoned-air-mods-nw-supplemental-type-certificates",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "This notice announces the FAA's intent to designate Air Mods NW Supplemental Type Certificate (STC) Nos. SA991NW, SA1009NW, SA1012NW, SA2129NM, SA3326NM, SA3344NM, SA3841NM, SA4135NNM, SA4136NM, SA4387NM, SA4708NM, and SA4722NM as abandoned and make the related engineering data available upon request. The FAA has received a request to provide engineering data concerning these STCs. The FAA has been unsuccessful in contacting Air Mods NW concerning these STCs. This action is intended to enhance aviation safety.",
+        "keywords": [
+          "transportation department",
+          "federal aviation administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Transportation Department",
+          "Federal Aviation Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920460+00:00"
+    },
+    {
+      "id": "federal-register-7293a0b3325c",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V RIPTIDE",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06082/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel set forth in the request would have an adverse effect on U.S. vessel builders or U.S. coastwise trade businesses that use U.S.- built vessels in those businesses. Information about the requestor's vessel, including a description of the proposed service, is in the SUPPLEMENTARY INFORMATION section below.",
+        "keywords": [
+          "transportation department",
+          "maritime administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Transportation Department",
+          "Maritime Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "S",
+      "collected_at": "2026-03-30T01:18:48.920481+00:00"
+    },
+    {
+      "id": "federal-register-c97f5b1f357f",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V SCOUT",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06081/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-scout",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel set forth in the request would have an adverse effect on U.S. vessel builders or U.S. coastwise trade businesses that use U.S.- built vessels in those businesses. Information about the requestor's vessel, including a description of the proposed service, is in the SUPPLEMENTARY INFORMATION section below.",
+        "keywords": [
+          "transportation department",
+          "maritime administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Transportation Department",
+          "Maritime Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "S",
+      "collected_at": "2026-03-30T01:18:48.920503+00:00"
+    },
+    {
+      "id": "federal-register-0b484f066fa8",
+      "title": "Safety Standard for Portable Hook-On Chairs",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06080/safety-standard-for-portable-hook-on-chairs",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "In March 2016, the U.S. Consumer Product Safety Commission (CPSC or Commission) published a consumer product safety standard for portable hook-on chairs based on the ASTM voluntary standard for portable hook-on chairs. Currently, CPSC's mandatory standard incorporates by reference ASTM F1235-18, Standard Consumer Safety Specification for Portable Hook-on Chairs. The Consumer Product Safety Improvement Act of 2008 (CPSIA) sets forth a process for updating mandatory standards for durable infant or toddler products that are based on a voluntary standard, when a voluntary standards organization revises the standard. In January 2026, ASTM published a revised voluntary standard. This direct final rule updates the mandatory standard for portable hook-on chairs to incorporate by reference the 2025 version of ASTM F1235.",
+        "keywords": [
+          "consumer protection",
+          "imports",
+          "incorporation by reference",
+          "infants and children",
+          "labeling",
+          "law enforcement",
+          "safety",
+          "consumer product safety commission"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Consumer Product Safety Commission"
+        ],
+        "topics": [
+          "Consumer protection",
+          "Imports",
+          "Incorporation by reference",
+          "Infants and children",
+          "Labeling",
+          "Law enforcement",
+          "Safety"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920529+00:00"
+    },
+    {
+      "id": "federal-register-ffd58a574e40",
+      "title": "Submission for OMB Review; Reporting Purchases From Sources Outside the United States",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06072/submission-for-omb-review-reporting-purchases-from-sources-outside-the-united-states",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "Under the provisions of the Paperwork Reduction Act, the Regulatory Secretariat Division has submitted to OMB a request to review and approve an extension of a previously approved information collection requirement regarding reporting purchases from sources outside the United States.",
+        "keywords": [
+          "management and budget office",
+          "federal procurement policy office",
+          "defense department",
+          "general services administration",
+          "national aeronautics and space administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Management and Budget Office",
+          "Federal Procurement Policy Office",
+          "Defense Department",
+          "General Services Administration",
+          "National Aeronautics and Space Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920547+00:00"
+    },
+    {
+      "id": "federal-register-59b855e138b9",
+      "title": "Overtime and Holiday Inspection Fee Reductions for Small and Very Small Establishments",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06071/overtime-and-holiday-inspection-fee-reductions-for-small-and-very-small-establishments",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "This notice provides instructions to small and very small establishments for applying for reduced overtime and holiday inspection fees. It also describes FSIS' procedures for implementing the reduced fees. FSIS is using $20 million in de-obligated funds to temporarily reduce overtime and holiday inspection fees for small and very small official meat, poultry, and egg products establishments for Fiscal Year (FY) 2026. Eligible small establishments that apply will receive a 30 percent reduction and eligible very small establishments that apply will receive a 75 percent reduction. Establishments must submit the FSIS Form 5200-16, Overtime/Holiday Rate Reduction Form for FSIS to determine eligibility.",
+        "keywords": [
+          "agriculture department",
+          "food safety and inspection service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Agriculture Department",
+          "Food Safety and Inspection Service"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920567+00:00"
+    },
+    {
+      "id": "federal-register-7a2b4c6b5e9e",
+      "title": "Marketable Treasury Securities Redemption Operations",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06070/marketable-treasury-securities-redemption-operations",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Department of the Treasury (Treasury) is issuing in final form amendments to the terms and conditions for marketable Treasury securities redemption (buyback) operations. These amendments reflect expanded direct offer submission eligibility, update the certification statements to participate in buyback operations, enhance clarity, and make conforming changes to several sections of the buyback regulations to reflect Treasury's current practices.",
+        "keywords": [
+          "bonds",
+          "federal reserve system",
+          "government securities",
+          "treasury department",
+          "fiscal service"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Rule",
+        "agencies": [
+          "Treasury Department",
+          "Fiscal Service"
+        ],
+        "topics": [
+          "Bonds",
+          "Federal Reserve System",
+          "Government securities"
+        ]
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920585+00:00"
+    },
+    {
+      "id": "federal-register-8e87c5d35b62",
+      "title": "Solicitation of Nominations for Membership on the Ocean Research Advisory Panel",
+      "source": {
+        "name": "US Federal Register",
+        "type": "policy",
+        "url": "https://www.federalregister.gov/documents/2026/03/30/2026-06069/solicitation-of-nominations-for-membership-on-the-ocean-research-advisory-panel",
+        "published_date": "2026-03-30"
+      },
+      "content": {
+        "abstract": "The Ocean Research Advisory Panel (ORAP) advises the Ocean Policy Committee (Committee) and provides independent recommendations to the Federal Government on matters of ocean policy. Congress directed the establishment of the ORAP in Section 1055(c) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Pub. L. 116-283), 10 U.S.C. 8933. The Panel shall consist of not fewer than 10 and not more than 18 members appointed by the Co-Chairs of the Committee, including each of the following: (1) Three members who represent the National Academies of Sciences, Engineering, and Medicine. (2) Members selected from among individuals who represent the views of ocean industries, state, tribal, territorial, or local governments, academia, and such other views as the Committee Co-Chairs consider appropriate. (3) Members selected from among individuals eminent in the fields of marine science, marine technology, marine policy, or related fields. Members are appointed for a term of up to three years, renewable once for up to three years, at the Committee Co- Chairs' discretion. The terms may be consecutive or not but may not exceed two terms. Panel members shall be appointed to serve as Representative members.",
+        "keywords": [
+          "commerce department",
+          "national oceanic and atmospheric administration"
+        ],
+        "language": "en"
+      },
+      "metadata": {
+        "document_type": "Notice",
+        "agencies": [
+          "Commerce Department",
+          "National Oceanic and Atmospheric Administration"
+        ],
+        "topics": []
+      },
+      "preliminary_category": "P",
+      "collected_at": "2026-03-30T01:18:48.920612+00:00"
+    }
+  ]
+}

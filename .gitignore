@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+firebase-debug*.log
+output/
+node_modules/
+archived-docs/
+env-scanning/wf1-general/
+env-scanning/wf2-arxiv/
+env-scanning/wf3-naver/
+env-scanning/wf4-multiglobal-news/
+env-scanning/integrated/
+logs/
+health/

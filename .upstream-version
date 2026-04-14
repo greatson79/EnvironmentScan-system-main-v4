@@ -1,0 +1,4 @@
+upstream_commit: unknown
+upstream_tag: latest
+synced_at: 2026-04-14
+note: downloaded without git clone. upstream commit hash unavailable locally.
