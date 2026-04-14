@@ -1,0 +1,48 @@
+{
+  "workflow": "wf4-multiglobal-news",
+  "date": "2026-03-28",
+  "status": "completed",
+  "phase1": {
+    "status": "completed",
+    "signals_collected": 1734,
+    "after_dedup": 1236,
+    "definite_duplicates_removed": 498,
+    "sites_succeeded": 37,
+    "sites_failed": 7,
+    "languages": 8
+  },
+  "phase2": {
+    "status": "completed",
+    "signals_classified": 15,
+    "steeps_distribution": {
+      "P": 5,
+      "E": 3,
+      "S": 3,
+      "T": 1,
+      "s": 3
+    },
+    "fssf_distribution": {
+      "Wild Card": 2,
+      "Discontinuity": 1,
+      "Trend": 4,
+      "Driver": 2,
+      "Weak Signal": 2,
+      "Emerging Issue": 2,
+      "Precursor Event": 2
+    }
+  },
+  "phase3": {
+    "status": "completed",
+    "report_generated": true,
+    "report_validated": true,
+    "ko_translated": false,
+    "archived": true
+  },
+  "report_path": "env-scanning/wf4-multiglobal-news/reports/daily/environmental-scan-2026-03-28.md",
+  "signal_count": 15,
+  "validation": "20/20 PASS",
+  "human_approvals": {
+    "step_2_5": "auto-approved",
+    "step_3_4": "auto-approved"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "workflow_id": "wf1-general-2026-03-26",
+  "scan_date": "2026-03-26",
+  "start_time": "2026-03-25T22:40:02+00:00",
+  "current_phase": 3,
+  "current_step": "3.4_approved",
+  "status": "completed",
+  "mode": "autopilot",
+  "topic": "Daily Environmental Scan - 2026-03-26",
+  "completed_steps": [
+    "1.1_load_archive",
+    "1.2_scan_sources",
+    "1.3_filter_duplicates",
+    "2.1_classify_steeps",
+    "2.2_impact_analysis",
+    "2.3_priority_ranking",
+    "2.5_human_review_analysis_approved",
+    "3.1_update_database",
+    "3.2_generate_report",
+    "3.2_validate_report_l2a_18_18_PASS",
+    "3.3_archive_completed",
+    "3.4_human_approval_approved"
+  ],
+  "blocked_on": null,
+  "errors": [],
+  "human_decisions": [
+    {
+      "step": "2.5",
+      "decision": "approved",
+      "timestamp": "2026-03-25T22:45:00+00:00",
+      "notes": "Analysis review approved -- autopilot mode. 41 signals classified and ranked."
+    },
+    {
+      "step": "3.4",
+      "decision": "approved",
+      "timestamp": "2026-03-25T23:37:31.612681+00:00",
+      "notes": "WF1 report approved -- autopilot mode. L2a validation 18/18 PASS."
+    }
+  ],
+  "signal_count": 41,
+  "validation": {
+    "l2a": {
+      "result": "PASS",
+      "passed": 18,
+      "total": 18,
+      "critical_fails": 0
+    }
+  },
+  "report_path": "env-scanning/wf1-general/reports/daily/environmental-scan-2026-03-26.md"
+}

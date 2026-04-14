@@ -1,0 +1,39 @@
+{
+  "workflow": "wf3-naver",
+  "date": "2026-03-28",
+  "status": "completed",
+  "phase_1": {
+    "status": "completed",
+    "articles_scanned": 270,
+    "signals_collected": 241,
+    "definite_duplicates_removed": 29,
+    "crawl_strategy": "direct_crawl"
+  },
+  "phase_2": {
+    "status": "completed",
+    "signals_classified": 15,
+    "steeps_categories": 4,
+    "fssf_types": 8,
+    "tipping_points": {
+      "RED": 2,
+      "ORANGE": 3,
+      "YELLOW": 6,
+      "GREEN": 4
+    }
+  },
+  "phase_3": {
+    "status": "completed",
+    "report_en": "naver-scan-2026-03-28.md",
+    "report_ko": null,
+    "validation_en": "20/20 PASS",
+    "archived": true
+  },
+  "database": {
+    "signals_added": 15,
+    "total_signals": 1712
+  },
+  "checkpoints": {
+    "step_2_5": "auto-approved (autopilot)",
+    "step_3_4": "auto-approved (autopilot)"
+  }
+}

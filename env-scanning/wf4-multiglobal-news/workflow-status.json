@@ -1,0 +1,44 @@
+{
+  "workflow": "wf4-multiglobal-news",
+  "status": "completed",
+  "date": "2026-03-19",
+  "started_at": "2026-03-19T01:30:00Z",
+  "completed_at": "2026-03-19T01:42:01.524343+00:00",
+  "signal_count": 15,
+  "sources_scanned": 43,
+  "report_path": "env-scanning/wf4-multiglobal-news/reports/daily/environmental-scan-2026-03-19.md",
+  "report_ko_path": "env-scanning/wf4-multiglobal-news/reports/daily/environmental-scan-2026-03-19-ko.md",
+  "verification_summary": {
+    "L2a_en": "20/20 PASS"
+  },
+  "human_approvals": {
+    "step_2_5": {
+      "decision": "approved",
+      "timestamp": "2026-03-19T01:35:00Z"
+    },
+    "step_3_4": {
+      "decision": "approved",
+      "timestamp": "2026-03-19T01:42:01.524474+00:00"
+    }
+  },
+  "phases": {
+    "phase1": "completed",
+    "phase2": "completed",
+    "phase3": "completed"
+  },
+  "fssf_distribution": {
+    "Discontinuity": 4,
+    "Wild Card": 3,
+    "Precursor Event": 4,
+    "Driver": 1,
+    "Trend": 2,
+    "Weak Signal": 1
+  },
+  "tipping_alerts": {
+    "GREEN": 15,
+    "YELLOW": 0,
+    "ORANGE": 0,
+    "RED": 0
+  },
+  "archived": true
+}
